@@ -1,0 +1,69 @@
+1. ¿Qué hace un salto de sección en un documento?
+A. Inserta una nueva imagen
+B. Cambia el tipo de letra
+C. Permite dividir el documento para aplicar formatos distintos en cada parte
+D. Activa la corrección ortográfica
+ANSWER: C
+
+2. ¿Cuál es la función de "Buscar y reemplazar"?
+A. Buscar archivos en el equipo
+B. Cambiar el idioma del texto
+C. Localizar palabras y sustituirlas por otras
+D. Crear hipervínculos
+ANSWER: C
+
+3. ¿Dónde se insertan típicamente los encabezados?
+A. En el pie de página
+B. Al inicio de cada página
+C. Dentro de una tabla
+D. Solo en la primera página
+ANSWER: B
+
+4. ¿Qué permite el manejo de tablas en un documento?
+A. Convertir texto en imágenes
+B. Insertar columnas únicamente
+C. Organizar datos en filas y columnas
+D. Aplicar estilos automáticos
+ANSWER: C
+
+5. ¿Para qué sirven los marcadores en un documento?
+A. Aplicar negritas
+B. Insertar comentarios
+C. Señalar ubicaciones específicas para referencia o navegación
+D. Crear encabezados automáticos
+ANSWER: C
+
+6. ¿Qué permite un hipervínculo en un documento?
+A. Corregir errores ortográficos
+B. Insertar comentarios
+C. Conectar con otra parte del documento o una página web
+D. Dividir secciones del texto
+ANSWER: C
+
+7. ¿Qué verifica la herramienta de ortografía?
+A. Tamaño de letra
+B. Márgenes del documento
+C. Errores en palabras y gramática
+D. Cantidad de palabras por línea
+ANSWER: C
+
+8. ¿Qué función permite ver quién editó un documento?
+A. Ortografía
+B. Control de cambios
+C. Encabezados
+D. Insertar columnas
+ANSWER: B
+
+9. ¿Qué se puede hacer desde la función de revisión?
+A. Insertar tablas
+B. Controlar cambios y comentarios
+C. Cambiar tipo de papel
+D. Agregar imágenes
+ANSWER: B
+
+10. ¿Cuál es el propósito de establecer restricciones de edición?
+A. Aumentar el tamaño del archivo
+B. Permitir la edición por múltiples usuarios
+C. Proteger el contenido para evitar modificaciones no autorizadas
+D. Reducir el número de páginas
+ANSWER: C

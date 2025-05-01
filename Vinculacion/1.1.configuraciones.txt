@@ -1,0 +1,69 @@
+1. ¿Cuál es el propósito del diseño y configuración de página en un documento?
+A. Cambiar el tipo de letra
+B. Insertar imágenes
+C. Definir márgenes, orientación y tamaño del papel
+D. Aplicar estilos a los textos
+ANSWER: C
+
+2. ¿Qué permite la herramienta de columnas en un procesador de texto?
+A. Dividir el texto en párrafos
+B. Insertar imágenes entre párrafos
+C. Organizar el texto en dos o más bloques verticales
+D. Corregir errores ortográficos
+ANSWER: C
+
+3. ¿Qué se puede lograr mediante la aplicación de estilos?
+A. Insertar tablas automáticamente
+B. Establecer formatos predefinidos para títulos y párrafos
+C. Activar el modo oscuro
+D. Crear gráficos estadísticos
+ANSWER: B
+
+4. ¿Cuál de los siguientes elementos se considera una inserción de objeto?
+A. Texto en cursiva
+B. Tabla
+C. Título
+D. Encabezado
+ANSWER: B
+
+5. ¿Qué es la combinación de correspondencia?
+A. Un tipo de formato de tabla
+B. Una opción para insertar columnas
+C. Una función para enviar el mismo documento a varios destinatarios con datos personalizados
+D. Una herramienta para insertar hipervínculos
+ANSWER: C
+
+6. ¿Cuál es la función principal de la creación de sobres y etiquetas?
+A. Enviar correos electrónicos
+B. Generar códigos QR
+C. Preparar documentos para impresión masiva personalizada
+D. Insertar marcas de agua
+ANSWER: C
+
+7. ¿Qué permite hacer un formulario en un documento de Word?
+A. Traducir automáticamente el texto
+B. Crear campos para que el usuario los complete
+C. Comprimir el archivo
+D. Eliminar imágenes
+ANSWER: B
+
+8. ¿Qué opción modifica la orientación del documento?
+A. Inserción de objeto
+B. Columnas
+C. Diseño de página
+D. Formulario
+ANSWER: C
+
+9. ¿Qué herramienta permite insertar imágenes, gráficos o diagramas?
+A. Aplicación de estilos
+B. Diseño de página
+C. Inserción de objetos
+D. Ortografía
+ANSWER: C
+
+10. ¿Cuál de las siguientes no es una función del grupo "Configuraciones"?
+A. Crear formularios
+B. Corregir ortografía
+C. Crear sobres y etiquetas
+D. Aplicar estilos
+ANSWER: B
