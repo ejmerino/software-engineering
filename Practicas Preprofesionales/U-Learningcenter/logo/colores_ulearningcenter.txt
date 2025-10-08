@@ -1,0 +1,8 @@
+Azul Oscuro: #173d7e Celeste: #3172a7 Verde Pastel: #c9f181af383
+
+% Colores institucionales U-LEARNINGCENTER
+\definecolor{ulearningred}{HTML}{C51B44}      % Rojo principal (identidad de marca)
+\definecolor{ulearningblack}{HTML}{000000}    % Negro para textos y contraste fuerte
+\definecolor{ulearninggraydark}{HTML}{555555} % Gris oscuro para textos secundarios
+\definecolor{ulearninggraylight}{HTML}{F5F5F5}% Gris claro para fondos y bordes suaves
+\definecolor{ulearningwhite}{HTML}{FFFFFF}  
