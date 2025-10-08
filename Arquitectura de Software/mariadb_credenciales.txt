@@ -1,0 +1,3 @@
+root
+password: 1234
+TCP Port: 3307

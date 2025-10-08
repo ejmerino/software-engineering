@@ -1,0 +1,23 @@
+Laboratorios Individuales 4pts 20%
+Laboratorios Grupales 4 pts 20%
+Proyecto Parcial 5 pts 25%
+Prueba Escrita 2 pts 10%
+Prueba Práctica 5 pts 25%
+
+Total 20 100%
+
+Mini ERS 
+Historias de Usuario - Tarjetas CRC
+MVC
+
+Diagramas UML patrones arquitectónicos (Diagrama de Secuencia)
+
+SOA + BPM + Mashups (Legacy: SOAP/RESTFUL con Java/.NET)
+|
+|
+Microservicios
+
+Herramientas ----
+
+JAVA: IDE (InteliJ) MariaDB/MySQL, desde la 8.2
+.NET: C#, SQL Server, Power Designer
