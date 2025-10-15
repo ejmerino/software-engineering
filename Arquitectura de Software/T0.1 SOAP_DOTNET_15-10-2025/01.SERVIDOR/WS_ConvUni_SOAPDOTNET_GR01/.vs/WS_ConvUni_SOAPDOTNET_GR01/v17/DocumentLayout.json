@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\T0.1 SOAP_DOTNET_15-10-2025\\01.SERVIDOR\\WS_ConvUni_SOAPDOTNET_GR01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E3BB5-2090-4920-B40E-0513A55F65A7}|WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\t0.1 soap_dotnet_15-10-2025\\01.servidor\\ws_convuni_soapdotnet_gr01\\ws_convuni_soapdotnet_gr01\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E3BB5-2090-4920-B40E-0513A55F65A7}|WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01.csproj|solutionrelative:ws_convuni_soapdotnet_gr01\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94E3BB5-2090-4920-B40E-0513A55F65A7}|WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\t0.1 soap_dotnet_15-10-2025\\01.servidor\\ws_convuni_soapdotnet_gr01\\ws_convuni_soapdotnet_gr01\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94E3BB5-2090-4920-B40E-0513A55F65A7}|WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01.csproj|solutionrelative:ws_convuni_soapdotnet_gr01\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\T0.1 SOAP_DOTNET_15-10-2025\\01.SERVIDOR\\WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WS_ConvUni_SOAPDOTNET_GR01\\Service1.svc.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\T0.1 SOAP_DOTNET_15-10-2025\\01.SERVIDOR\\WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01\\Service1.svc.cs",
+              "RelativeToolTip": "WS_ConvUni_SOAPDOTNET_GR01\\Service1.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:30:22.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\T0.1 SOAP_DOTNET_15-10-2025\\01.SERVIDOR\\WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01\\IService1.cs",
+              "RelativeDocumentMoniker": "WS_ConvUni_SOAPDOTNET_GR01\\IService1.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\T0.1 SOAP_DOTNET_15-10-2025\\01.SERVIDOR\\WS_ConvUni_SOAPDOTNET_GR01\\WS_ConvUni_SOAPDOTNET_GR01\\IService1.cs",
+              "RelativeToolTip": "WS_ConvUni_SOAPDOTNET_GR01\\IService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:30:21.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
