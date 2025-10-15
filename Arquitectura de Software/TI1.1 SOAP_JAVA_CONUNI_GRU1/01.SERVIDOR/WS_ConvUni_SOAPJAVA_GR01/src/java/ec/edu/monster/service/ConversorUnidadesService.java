@@ -4,6 +4,7 @@ import javax.jws.WebService;
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
 
+@javax.jws.HandlerChain(file = "handler-chain.xml")
 @WebService(serviceName = "ConversorUnidadesService")
 public class ConversorUnidadesService {
     // =======================
