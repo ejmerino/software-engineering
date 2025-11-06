@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\models\\conversionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\models\\conversionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\models\\conversionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\models\\conversionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|d:\\josue\\github personal\\software-engineering\\arquitectura de software\\01.parcial\\ti1.4 rest_dotnet_conuni_gru1\\02.clicon\\cc_convuni_restdotnet_gr01\\cc_convuni_restdotnet_gr01\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A36A2-30E0-4251-9560-D6F996A6DC8C}|CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01.csproj|solutionrelative:cc_convuni_restdotnet_gr01\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversionController.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Controllers\\ConversionController.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Controllers\\ConversionController.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Controllers\\ConversionController.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Controllers\\ConversionController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:59:01.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionResponse.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionResponse.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionResponse.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionResponse.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:58:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversionRequest.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionRequest.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionRequest.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionRequest.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Models\\ConversionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:58:15.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Services\\ApiService.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\ApiService.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:57:51.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Services\\IApiService.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\IApiService.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:57:20.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\IAuthService.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:57:16.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Services\\AuthService.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:57:06.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Program.cs",
+              "RelativeDocumentMoniker": "CC_ConvUni_RESTDOTNET_GR01\\Program.cs",
+              "ToolTip": "D:\\Josue\\GitHub Personal\\software-engineering\\Arquitectura de Software\\01.PARCIAL\\TI1.4 REST_DOTNET_CONUNI_GRU1\\02.CLICON\\CC_ConvUni_RESTDOTNET_GR01\\CC_ConvUni_RESTDOTNET_GR01\\Program.cs",
+              "RelativeToolTip": "CC_ConvUni_RESTDOTNET_GR01\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:55:22.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

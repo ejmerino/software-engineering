@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "UnitConverter.Api.Controllers.ConvertController",
+    "Method": "Post",
+    "RelativePath": "api/Convert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "UnitConverter.Api.Models.ConversionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnitConverter.Api.Controllers.ConvertController",
+    "Method": "Units",
+    "RelativePath": "api/Convert/units/{category}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
