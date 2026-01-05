@@ -1,0 +1,6 @@
+@EurekaSucursalesApi_HostAddress = http://localhost:5127
+
+GET {{EurekaSucursalesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

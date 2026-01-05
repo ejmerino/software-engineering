@@ -1,0 +1,23 @@
+:root {
+  color-scheme: dark;
+  --bg: #070a12;
+  --card: rgba(18, 22, 35, 0.65);
+  --stroke: rgba(255, 255, 255, 0.10);
+  --text: rgba(255,255,255,0.92);
+  --muted: rgba(255,255,255,0.72);
+  --primary: #8b5cf6;
+  --primary2: #a855f7;
+  --danger: #ef4444;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background: radial-gradient(1200px 800px at 20% 10%, rgba(139,92,246,0.20), transparent 60%),
+              radial-gradient(900px 700px at 80% 30%, rgba(168,85,247,0.14), transparent 55%),
+              var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
+a { color: inherit; }

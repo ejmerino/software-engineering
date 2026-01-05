@@ -1,0 +1,46 @@
+// --- Modelo del Módulo de Crédito BanQuito ---
+
+// --- Tablas CORE (Según la imagen) ---
+Table CLIENTE {
+  CEDULA varchar(10) [pk]
+  NOMBRE varchar(100) [not null]
+  FECHA_NACIMIENTO date [not null]
+  ESTADO_CIVIL varchar(1) [not null, note: 'Ej: S=Soltero, C=Casado']
+}
+
+Table CUENTA {
+  NUM_CUENTA varchar(8) [pk]
+  CEDULA varchar(10) [ref: > CLIENTE.CEDULA, not null]
+  SALDO decimal(10, 2) [not null]
+}
+
+Table MOVIMIENTO {
+  COD_MOVIMIENTO int [pk, increment]
+  NUM_CUENTA varchar(8) [ref: > CUENTA.NUM_CUENTA, not null]
+  TIPO varchar(3) [not null, note: 'DEP=Depósito, RET=Retiro']
+  VALOR decimal(10, 2) [not null]
+  FECHA date [not null]
+}
+
+// --- Tablas Nuevas para el Módulo de Crédito ---
+Table Credito {
+  id_credito int [pk, increment]
+  cedula_cliente varchar(10) [ref: > CLIENTE.CEDULA, not null]
+  monto_prestamo decimal(10, 2) [not null]
+  tasa_interes_anual decimal(5, 4) [not null, note: 'Ej: 0.16 para 16%']
+  numero_cuotas int [not null]
+  valor_cuota_fija decimal(10, 2) [not null]
+  fecha_aprobacion date [not null]
+  estado varchar(10) [not null, note: 'Activo, Pagado']
+}
+
+Table Amortizacion_Detalle {
+  id_amortizacion int [pk, increment]
+  id_credito int [ref: > Credito.id_credito, not null]
+  numero_cuota int [not null]
+  fecha_pago_programada date [not null]
+  valor_cuota decimal(10, 2) [not null]
+  interes_pagado decimal(10, 2) [not null]
+  capital_pagado decimal(10, 2) [not null]
+  saldo_capital decimal(10, 2) [not null]
+}

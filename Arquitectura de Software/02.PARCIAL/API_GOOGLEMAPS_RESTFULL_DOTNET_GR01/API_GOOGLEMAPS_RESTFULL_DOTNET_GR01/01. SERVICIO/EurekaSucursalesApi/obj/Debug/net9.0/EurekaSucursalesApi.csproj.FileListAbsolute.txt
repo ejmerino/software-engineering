@@ -1,0 +1,311 @@
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\appsettings.Development.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\appsettings.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.staticwebassets.endpoints.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.exe
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.deps.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.runtimeconfig.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.pdb
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Azure.Core.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Humanizer.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.CodeDom.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.csproj.AssemblyReference.cache
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.AssemblyInfoInputs.cache
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.AssemblyInfo.cs
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.csproj.CoreCompileInputs.cache
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\scopedcss\bundle\EurekaSucursalesApi.styles.css
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSu.31351599.Up2Date
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\refint\EurekaSucursalesApi.dll
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.pdb
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.genruntimeconfig.cache
+D:\Arquitectura\Api google dotnet\EurekaSucursalesApi\obj\Debug\net9.0\ref\EurekaSucursalesApi.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\refint\EurekaSucursalesApi.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.pdb
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\appsettings.Development.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\appsettings.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.staticwebassets.endpoints.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.exe
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.deps.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.runtimeconfig.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\EurekaSucursalesApi.pdb
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Azure.Core.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Humanizer.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.CodeDom.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.csproj.AssemblyReference.cache
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.AssemblyInfoInputs.cache
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.AssemblyInfo.cs
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.csproj.CoreCompileInputs.cache
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.sourcelink.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\scopedcss\bundle\EurekaSucursalesApi.styles.css
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSu.31351599.Up2Date
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\EurekaSucursalesApi.genruntimeconfig.cache
+D:\Josue\GitHub Personal\software-engineering\Arquitectura de Software\02.PARCIAL\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\API_GOOGLEMAPS_RESTFULL_DOTNET_GR01\01. SERVICIO\EurekaSucursalesApi\obj\Debug\net9.0\ref\EurekaSucursalesApi.dll

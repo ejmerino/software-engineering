@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "EurekaSucursalesApi.Controllers.SucursalesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Sucursales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EurekaSucursalesApi.Models.Sucursal, EurekaSucursalesApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EurekaSucursalesApi.Controllers.SucursalesController",
+    "Method": "Create",
+    "RelativePath": "api/Sucursales",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sucursal",
+        "Type": "EurekaSucursalesApi.Models.Sucursal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EurekaSucursalesApi.Models.Sucursal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EurekaSucursalesApi.Controllers.SucursalesController",
+    "Method": "GetById",
+    "RelativePath": "api/Sucursales/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EurekaSucursalesApi.Models.Sucursal",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EurekaSucursalesApi.Controllers.SucursalesController",
+    "Method": "Update",
+    "RelativePath": "api/Sucursales/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "sucursal",
+        "Type": "EurekaSucursalesApi.Models.Sucursal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EurekaSucursalesApi.Controllers.SucursalesController",
+    "Method": "Delete",
+    "RelativePath": "api/Sucursales/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

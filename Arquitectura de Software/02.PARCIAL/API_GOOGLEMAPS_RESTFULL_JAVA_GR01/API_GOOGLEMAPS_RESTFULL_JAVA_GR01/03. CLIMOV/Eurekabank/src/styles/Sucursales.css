@@ -1,0 +1,289 @@
+/* ===============================
+   S U C U R S A L E S (Dark panel pro)
+   - Panel azul oscuro
+   - Texto blanco
+   - Sin hover en filas
+================================ */
+
+:root{
+  --bg: #EAF1F8;
+  --panel: #061225;      /* azul profundo */
+  --panel-2: #0B1B33;    /* header tabla */
+  --stroke: rgba(255,255,255,.08);
+
+  --text: #F8FAFC;       /* blanco suave */
+  --muted: rgba(248,250,252,.75);
+
+  --primary: #2563EB;
+  --danger: #DC2626;
+  --success: #0F766E;
+  --edit: #C7D2FE;
+}
+
+.page-container{
+  padding: 28px;
+  background: #061225; /* AZUL OSCURO */
+  min-height: 100vh;
+}
+
+
+/* Header */
+.page-header h1{
+  font-size: 44px;
+  font-weight: 800;
+  margin: 0;
+  letter-spacing: -0.5px;
+  color: #ffffff; /* BLANCO */
+}
+
+
+.page-header h1{
+  font-size: 44px;
+  font-weight: 800;
+  margin: 0;
+  letter-spacing: -0.5px;
+  color:  #ffffff;
+}
+
+/* + Agregar */
+.btn-primary{
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 14px 28px rgba(37, 99, 235, .28);
+}
+
+/* ===============================
+   PANEL / TABLE WRAPPER
+================================ */
+.table-wrapper{
+  background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02));
+  background-color: var(--panel);
+  border-radius: 22px;
+  padding: 18px;
+  box-shadow: 0 22px 55px rgba(0,0,0,.45);
+  border: 1px solid rgba(255,255,255,.08);
+  overflow: hidden;
+}
+
+/* ===============================
+   TABLE
+================================ */
+.data-table{
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 16px;
+  overflow: hidden;
+  background: rgba(255,255,255,.03);
+}
+
+/* header */
+.data-table thead th{
+  background: var(--panel-2);
+  color: var(--text);
+  padding: 14px 16px;
+  font-weight: 800;
+  text-align: left;
+  border-bottom: 1px solid var(--stroke);
+}
+
+/* rows */
+.data-table tbody tr{
+  background: transparent;
+}
+
+/* ✅ QUITAR EFECTO HOVER COMPLETAMENTE */
+.data-table tbody tr:hover{
+  background: transparent !important;
+  filter: none !important;
+}
+
+/* cells */
+.data-table tbody td{
+  color: var(--text);
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--stroke);
+}
+
+/* última fila sin borde */
+.data-table tbody tr:last-child td{
+  border-bottom: none;
+}
+
+/* ===============================
+   ACTIONS
+================================ */
+.table-actions{
+  display: flex;
+  gap: 10px;
+}
+
+.btn-small{
+  border: none;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-weight: 800;
+  cursor: pointer;
+  background: var(--edit);
+  color: #1f2937;
+}
+
+.btn-small.danger{
+  background: var(--danger);
+  color: #fff;
+}
+
+.btn-small.secondary{
+  background: var(--success);
+  color: #fff;
+}
+
+/* ===============================
+   MOBILE CARDS
+================================ */
+.desktop-only{ display:block; }
+.mobile-only{ display:none; }
+
+.card{
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 18px;
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 16px 40px rgba(0,0,0,.35);
+  border: 1px solid rgba(255,255,255,.08);
+}
+
+.card h3{
+  margin: 0 0 10px 0;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.card p{
+  margin: 6px 0;
+  color: var(--muted);
+}
+
+.card p strong{
+  color: var(--text);
+}
+
+.card-actions{
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.card-actions .btn-small{
+  flex: 1;
+}
+
+/* ===============================
+   MODAL (mantenemos limpio)
+================================ */
+.modal-backdrop{
+  position: fixed;
+  inset: 0;
+  background: rgba(2, 6, 23, .65);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+
+.modal-card{
+  width: 520px;
+  max-width: 100%;
+  background: #fff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0,0,0,.35);
+}
+
+.modal-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 16px;
+  background: var(--panel);
+  color: #fff;
+}
+
+.close-btn{
+  border: none;
+  background: transparent;
+  color: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.modal-body{
+  padding: 16px;
+}
+
+.form-grid label{
+  display: block;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.form-grid input{
+  width: 100%;
+  margin-top: 6px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #D6DEEA;
+}
+
+.modal-footer{
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  padding-top: 10px;
+}
+
+.btn-secondary{
+  background: #64748b;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+/* ===============================
+   RESPONSIVE
+================================ */
+@media (max-width: 768px){
+  .page-container{ padding: 18px; }
+
+  .page-header{
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+    text-align: center;
+  }
+
+  .page-header h1{
+    font-size: 30px;
+  }
+
+  .btn-primary{ width: 100%; }
+
+  .desktop-only{ display:none; }
+  .mobile-only{ display:block; }
+
+  .table-wrapper{
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+    border: none;
+  }
+}

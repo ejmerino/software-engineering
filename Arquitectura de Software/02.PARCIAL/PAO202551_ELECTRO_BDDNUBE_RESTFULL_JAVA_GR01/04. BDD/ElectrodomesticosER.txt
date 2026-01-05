@@ -1,0 +1,37 @@
+// --- Modelo de la Comercializadora de Electrodomésticos ---
+
+Table Electrodomestico {
+  id_electrodomestico int [pk, increment]
+  nombre varchar(100) [not null]
+  descripcion varchar(255)
+  precio_venta decimal(10, 2) [not null]
+}
+
+Table Cliente {
+  cedula varchar(10) [pk]
+  nombres varchar(100) [not null]
+  apellidos varchar(100) [not null]
+  direccion varchar(255)
+  telefono varchar(20)
+  email varchar(100)
+}
+
+Table Factura {
+  id_factura int [pk, increment]
+  cedula_cliente varchar(10) [ref: > Cliente.cedula, not null]
+  fecha date [not null]
+  forma_pago varchar(20) [not null, note: 'Efectivo o Crédito']
+  subtotal decimal(10, 2) [not null]
+  descuento decimal(10, 2) [default: 0]
+  total decimal(10, 2) [not null]
+  id_credito_banco int [note: 'ID del crédito en BanQuito, si aplica']
+}
+
+Table Factura_Detalle {
+  id_detalle int [pk, increment]
+  id_factura int [ref: > Factura.id_factura, not null]
+  id_electrodomestico int [ref: > Electrodomestico.id_electrodomestico, not null]
+  cantidad int [not null]
+  precio_unitario_venta decimal(10, 2) [not null]
+  subtotal_linea decimal(10, 2) [not null]
+}

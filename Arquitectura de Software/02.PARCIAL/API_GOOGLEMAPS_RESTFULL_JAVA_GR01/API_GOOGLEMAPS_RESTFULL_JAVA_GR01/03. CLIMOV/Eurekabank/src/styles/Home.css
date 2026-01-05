@@ -1,0 +1,257 @@
+/* === LAYOUT GENERAL DEL HOME / DASHBOARD === */
+
+.home-layout {
+  min-height: 100vh;
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem 2rem;
+  background: radial-gradient(circle at top, #020617 0, #020617 55%, #020617 100%);
+  color: #e5e7eb;
+  position: relative;
+}
+
+/* === BOTÓN HAMBURGUESA PARA DESPLEGAR MENÚ === */
+
+.sidebar-toggle {
+  position: absolute;
+  top: 0.8rem;
+  left: 0.9rem;
+  z-index: 40;
+
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.7);
+  background: rgba(15, 23, 42, 0.96);
+  color: #e5e7eb;
+  cursor: pointer;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+}
+
+.sidebar-toggle:hover {
+  border-color: #3b82f6;
+}
+
+/* === SIDEBAR IZQUIERDO === */
+
+.home-sidebar {
+  width: 300px;
+  max-width: 100%;
+  background: rgba(15, 23, 42, 0.98);
+  border-radius: 20px;
+  padding: 1.6rem 1.5rem 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(31, 41, 55, 0.95);
+  overflow: hidden;
+  transition: width 0.22s ease, padding 0.22s ease, transform 0.22s ease;
+  transform: translateX(0);
+  z-index: 30;
+}
+
+.home-sidebar.open {
+  transform: translateX(0);
+}
+
+/* estado colapsado: menú oculto en escritorio */
+.home-sidebar.collapsed {
+  width: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  transform: translateX(-110%);
+}
+
+/* Encabezado del sidebar */
+
+.home-sidebar-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.home-brand {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: #9ca3af;
+  margin: 0;
+}
+
+.home-system-title {
+  margin: 0.1rem 0;
+  font-size: 1.35rem;
+}
+
+.home-system-text {
+  margin: 0;
+  font-size: 0.86rem;
+  color: #9ca3af;
+}
+
+/* MENÚ DE OPCIONES */
+
+.home-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.menu-item {
+  width: 100%;
+  text-align: left;
+  background: #020617;
+  border-radius: 0.9rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid #1f2937;
+  color: #e5e7eb;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: 0.18s ease;
+}
+
+.menu-item:hover {
+  background: #0b1120;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.55);
+}
+
+.menu-item.disabled {
+  opacity: 0.45;
+  cursor: default;
+  border-style: dashed;
+}
+
+.menu-item.disabled:hover {
+  background: #020617;
+  border-color: #1f2937;
+  box-shadow: none;
+}
+
+.menu-item.active-menu {
+  border-color: #3b82f6;
+  background: #0b1120;
+  box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.6);
+}
+
+/* Cerrar sesión en sidebar */
+
+.menu-item.danger {
+  border-color: #b91c1c;
+  color: #fecaca;
+}
+
+.menu-item.danger:hover {
+  background: rgba(185, 28, 28, 0.2);
+  border-color: #ef4444;
+}
+
+.home-sidebar-footer {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.home-hint {
+  font-size: 0.7rem;
+  color: #9ca3af;
+}
+
+/* === CONTENIDO PRINCIPAL === */
+
+.home-main {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+/* Cuando el sidebar está colapsado, centramos el contenido */
+.home-layout.sidebar-collapsed .home-main {
+  justify-content: center;
+}
+
+/* Tarjeta de bienvenida (Home) */
+
+.home-hero-card {
+  width: 100%;
+  max-width: 1050px;
+  background: linear-gradient(90deg, #1d4ed8, #0b1120);
+  border-radius: 22px;
+  padding: 1.8rem 2rem;
+  box-shadow: 0 18px 50px rgba(15, 23, 42, 0.9);
+  border: 1px solid rgba(30, 64, 175, 0.8);
+}
+
+.home-hero-card h1 {
+  margin: 0 0 0.7rem;
+  font-size: 1.6rem;
+}
+
+.home-hero-card p {
+  margin: 0;
+  font-size: 0.93rem;
+  max-width: 46rem;
+  color: #e5e7eb;
+}
+
+/* === RESPONSIVE: TABLET / MÓVIL === */
+
+@media (max-width: 900px) {
+  .home-layout {
+    padding: 1rem;
+    flex-direction: column; /* contenido debajo del botón */
+  }
+
+  /* Sidebar como panel flotante */
+  .home-sidebar {
+    position: fixed;
+    top: 0.9rem;
+    left: 0.9rem;
+    height: calc(100vh - 1.8rem);
+    width: 260px;
+    border-radius: 18px;
+  }
+
+  /* cuando está “cerrado”, lo movemos fuera de pantalla */
+  .home-sidebar.collapsed {
+    transform: translateX(-120%);
+    width: 260px;
+    padding: 1.6rem 1.5rem 1.4rem;
+    border: 1px solid rgba(31, 41, 55, 0.95);
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.7);
+  }
+
+  .home-main {
+    width: 100%;
+    margin-top: 3.5rem; /* deja espacio para el botón ☰ */
+    justify-content: center;
+  }
+
+  .sidebar-toggle {
+    top: 0.6rem;
+    left: 0.6rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .home-layout {
+    padding: 0.8rem;
+  }
+
+  .home-hero-card {
+    padding: 1.3rem 1.3rem;
+    border-radius: 16px;
+  }
+
+  .home-hero-card h1 {
+    font-size: 1.35rem;
+  }
+}

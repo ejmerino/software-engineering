@@ -1,0 +1,81 @@
+/* Pantalla completa */
+.login-page {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* Tarjeta del login */
+.login-card {
+  width: 100%;
+  max-width: 360px; /* 🔹 MÁS PEQUEÑO */
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 1.5rem;
+  color: #fff;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+}
+
+/* Títulos */
+.bank-title {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 0.2rem;
+}
+
+.login-title {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-bottom: 1.2rem;
+  opacity: 0.85;
+}
+
+/* Labels */
+.login-card label {
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+  display: block;
+}
+
+/* Inputs */
+.login-card input {
+  width: 100%;
+  padding: 0.6rem;
+  margin-bottom: 0.9rem;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 0.9rem;
+}
+
+/* Botón */
+.login-card button {
+  width: 100%;
+  padding: 0.7rem;
+  border-radius: 12px;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  background: linear-gradient(135deg, #9333ea, #6d28d9);
+  color: white;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+
+.login-card button:hover {
+  transform: scale(1.02);
+  opacity: 0.95;
+}
+
+/* 📱 Mobile */
+@media (max-width: 480px) {
+  .login-card {
+    max-width: 100%;
+    padding: 1.2rem;
+  }
+}
