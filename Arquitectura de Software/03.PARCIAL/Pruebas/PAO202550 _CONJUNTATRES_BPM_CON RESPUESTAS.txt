@@ -1,0 +1,531 @@
+¿Qué significa BPM?
+A. Business Project Management
+B. Business Process Management
+C. Business Performance Measurement
+D. Business Product Marketing
+ANSWER: B
+
+¿Cuál de las siguientes NO es una fase típica en el ciclo de vida de BPM?
+A. Modelado
+B. Implementación
+C. Evaluación
+D. Administración
+ANSWER: D
+
+¿Qué herramienta se utiliza comúnmente para el modelado de procesos en BPM?
+A. Excel
+B. Photoshop
+C. Microsoft Visio
+D. PowerPoint
+ANSWER: C
+
+¿Cuál de las siguientes NO es una característica clave de BPM?
+A. Automatización de procesos
+B. Optimización de recursos
+C. Centralización de datos
+D. Análisis de mercado
+ANSWER: D
+
+¿Qué estándar es comúnmente utilizado para la ejecución de procesos en BPM?
+A. BPMN
+B. HTML
+C. XML
+D. JSON
+ANSWER: A
+
+Qué tipo de proceso implica la interacción directa con los clientes?
+A. Proceso interno
+B. Proceso externo
+C. Proceso de negocio
+D. Proceso de servicio
+ANSWER: D
+
+¿Qué es un KPI en el contexto de BPM?
+A. Indicador de Rendimiento Clave
+B. Instrumento de Programación Continua
+C. Implementación de Procesos Corporativos
+D. Intercambio de Protocolos Comerciales
+ANSWER: A
+
+¿Qué tipo de proceso se enfoca en mejorar los procesos existentes dentro de una organización?
+A. Proceso de automatización
+B. Proceso de mejora
+C. Proceso de rediseño
+D. Proceso de implementación
+ANSWER: C
+
+¿Qué técnica se utiliza comúnmente para identificar y analizar los procesos en BPM?
+A. Diagrama de Gantt
+B. Diagrama de Pareto
+C. Diagrama de Ishikawa
+D. Diagrama de flujo
+ANSWER: D
+
+¿Cuál de los siguientes NO es un beneficio típico de la implementación de BPM?
+A. Reducción de costos
+B. Mejora de la calidad
+C. Aumento de la complejidad
+D. Mayor agilidad empresarial
+ANSWER: C
+
+¿Cuál de las siguientes NO es una función común de un motor de ejecución de BPM?
+A. Administración de tareas
+B. Monitoreo de procesos
+C. Generación de informes financieros
+D. Gestión de usuarios
+ANSWER: C
+
+¿Qué técnica se utiliza comúnmente para evaluar y mejorar continuamente los procesos en BPM?
+A. Análisis FODA
+B. Ciclo de Deming (PDCA)
+C. Teoría de Colas
+D. Análisis PESTEL
+ANSWER: B
+
+¿Qué tipo de proceso se centra en la gestión y coordinación de las actividades internas de una organización?
+A. Proceso de negocios
+B. Proceso interno
+C. Proceso externo
+D. Proceso de servicio
+ANSWER: B
+
+¿Cuál de las siguientes NO es una característica común de un proceso en BPM?
+A. Secuencia de actividades
+B. Asignación de recursos
+C. Estilo de fuente
+D. Flujos de trabajo
+ANSWER: C
+
+¿Cuál de las siguientes NO es una métrica típica utilizada en BPM?
+A. Tiempo de ciclo
+B. Costo de producción
+C. Tasa de error
+D. Nivel de inventario
+ANSWER: B
+
+¿Qué tipo de proceso se centra en la entrega de valor directamente al cliente?
+A. Proceso interno
+B. Proceso de servicio
+C. Proceso externo
+D. Proceso de negocio
+ANSWER: B
+
+¿Cuál de las siguientes NO es una etapa típica en el modelado de procesos en BPM?
+A. Identificación
+B. Documentación
+C. Análisis de datos
+D. Implementación
+ANSWER: D
+
+¿Qué tipo de proceso implica la interacción entre una organización y sus socios comerciales?
+A. Proceso interno
+B. Proceso de servicio
+C. Proceso externo
+D. Proceso colaborativo
+ANSWER: C
+
+¿Cuál de las siguientes NO es una característica común de un motor de reglas de negocio en BPM?
+A. Gestión de reglas
+B. Motor de ejecución
+C. Análisis de datos
+D. Integración con sistemas externos
+ANSWER: C
+
+¿Qué tipo de proceso implica la entrega de productos o servicios a los clientes?
+A. Proceso de mejora
+B. Proceso de soporte
+C. Proceso de entrega
+D. Proceso de venta
+ANSWER: C
+
+BPM se centra en:
+A. Las personas
+B. Los procesos
+C. Los clientes
+D. Los directivos
+ANSWER: B
+
+¿Cómo se puede representar los roles o cargos dentro de un diagrama BPMN?
+A. Con Lanes
+B. Con Actividades
+C. Con Eventos
+D. Con Pool
+ANSWER: A
+
+Tipo de compuerta en la que solo una alternativa o flujo puede ser verdadera
+A. Compuerta Paralela
+B. Compuerta basada en eventos
+C. Compuerta Exclusiva
+D. Ninguna de las anteriores
+ANSWER: C
+
+Elemento para proveer información adicional sobre el diagrama
+A. Eventos
+B. Anotaciones
+C. Pool
+D. Flujos de conexión
+ANSWER: B
+
+Actividad realizada por un humano con ayuda de una computadora
+A. Actividad de Servicio
+B. Actividad de Envió
+C. Actividad de Usuario
+D. Actividad de Recepción
+ANSWER: C
+
+Evento que espera un mensaje de un participante para continuar con el proceso
+A. Evento de Mensaje
+B. Evento de Señal
+C. Evento de Temporizador
+D. Evento de Enlace
+ANSWER: A
+
+¿Qué tipo de compuerta (gateway) sirve para tomar una decisión (Sí, No)?
+A. Compuerta paralela
+B. Compuerta exclusiva
+C. Compuerta inclusiva
+D. Compuerta basada en eventos
+ANSWER: B
+
+¿Qué tipo de compuerta sirve para realizar ambas tareas en un proceso?
+A. Compuerta paralela
+B. Compuerta exclusiva
+C. Compuerta basada en eventos
+D. Compuerta inclusiva
+ANSWER: A
+
+¿Qué tipo de flujo sirve para unir dos Tareas en un mismo Pool?
+A. Flujo de Secuencia
+B. Flujo de Asociación
+C. Flujo de Mensaje
+D. Flujo de Control
+ANSWER: A
+
+¿Qué es un Lane?
+A. Es una división que se realiza dentro de una Actividad
+B. Es una Actividad que realiza un usuario de forma manual
+C. Es la encargada de dividir un Pool en subprocesos
+D. Es una sub partición dentro del Pool
+ANSWER: D
+
+¿Cuál es el objetivo de una Tarea de Servicio?
+A. Es una Tarea donde un humano ejecuta la Tarea con ayuda de una aplicación
+B. Es una Tarea que realiza una función de forma automatizada
+C. Es una Tarea que envía un mensaje a un participante externo
+D. Tarea que contiene otras Tareas dentro del proceso
+ANSWER: B
+
+¿Qué Flujo sirve para conectar una Tarea de un Pool a la Tarea de otro Pool?
+A. Flujo de Secuencia
+B. Flujo de Asociación
+C. Flujo de Excepción
+D. Flujo de Mensaje
+ANSWER: D
+
+¿Cuál es la función de un Evento de Inicio?
+A. Indicar donde el proceso comienza
+B. Indicar donde el proceso finaliza
+C. Indicar donde sucede un evento en medio del proceso
+D. Iniciar una Tarea en un punto intermedio
+ANSWER: A
+
+BPM se centra en:
+A. Las personas
+B. Los procesos
+C. Los clientes
+D. Los directivos
+ANSWER: A
+
+¿Cómo se puede representar los roles o cargos dentro de un diagrama BPMN?
+A. Con Lanes
+B. Con Actividades
+C. Con Eventos
+D. Con Pool
+ANSWER: A
+
+Para converger flujos, se debe utilizar el mismo tipo de compuerta que se usó como divergente
+A. Verdadero
+B. Falso
+ANSWER: A
+
+Tipo de compuerta en la que solo una alternativa o flujo puede ser verdadera
+A. Compuerta Paralela
+B. Compuerta basada en eventos
+C. Compuerta Exclusiva
+D. Ninguna de las anteriores
+ANSWER: C
+
+Un evento intermedio nos sirve para iniciar un proceso
+A. Verdadero
+B. Falso
+ANSWER: B
+
+Elemento para proveer información adicional sobre el diagrama
+A. Eventos
+B. Anotaciones
+C. Pool
+D. Flujos de conexión
+ANSWER: B
+
+Las compuertas o puertas de enlace, nos permiten dividir o unir flujos
+A. Verdadero
+B. Falso
+ANSWER: A
+
+Un subproceso no pertenece a la clase de actividades
+A. Verdadero
+B. Falso
+ANSWER: B
+
+Actividad realizada por un humano con ayuda de una computadora
+A. Actividad de Servicio
+B. Actividad de Envió
+C. Actividad de Usuario
+D. Actividad de Recepción
+ANSWER: C
+
+Evento que espera un mensaje de un participante para continuar con el proceso
+A. Evento de Mensaje
+B. Evento de Señal
+C. Evento de Temporizador
+D. Evento de Enlace
+ANSWER: A
+
+¿Qué tipo de compuerta (gateway) sirve para tomar una decisión (Sí, No)?
+A. Compuerta paralela
+B. Compuerta exclusiva
+C. Compuerta inclusiva
+D. Compuerta basada en eventos
+ANSWER: B
+
+¿Qué tipo de compuerta sirve para realizar ambas tareas en un proceso?
+A. Compuerta paralela
+B. Compuerta exclusiva
+C. Compuerta basada en eventos
+D. Compuerta inclusiva
+ANSWER: A
+
+¿Qué tipo de flujo sirve para unir dos Tareas en un mismo Pool?
+A. Flujo de Secuencia
+B. Flujo de Asociación
+C. Flujo de Mensaje
+ANSWER: A
+
+¿Qué es un Lane?
+A. Es una división que se realiza dentro de una Actividad
+B. Es una Actividad que realiza un usuario de forma manual
+C. Es la encargada de dividir un Pool en subprocesos
+D. Es una sub partición dentro del Pool
+ANSWER: D
+
+¿Cuál es el objetivo de una Tarea de Servicio?
+A. Es una Tarea donde un humano ejecuta la Tarea con ayuda de una aplicación
+B. Es una Tarea que realiza una función de forma automatizada
+C. Es una Tarea que envía un mensaje a un participante externo
+D. Tarea que contiene otras Tareas dentro del proceso
+ANSWER: B
+
+¿Qué Flujo sirve para conectar una Tarea de un Pool a la Tarea de otro Pool?
+A. Flujo de Secuencia
+B. Flujo de Asociación
+C. Flujo de Mensaje
+ANSWER: C
+
+¿Cuál es la función de un Evento de Inicio?
+A. Indicar donde el proceso comienza
+B. Indicar donde el proceso finaliza
+C. Indicar donde sucede un evento en medio del proceso
+D. Iniciar una Tarea en un punto intermedio
+ANSWER: A
+
+¿Cuál es la principal característica de una tarea en un proceso BPM?
+A. Se ejecuta únicamente por sistemas externos
+B. Siempre requiere intervención humana
+C. Representa una unidad de trabajo dentro del proceso
+D. No puede ser parte de un subproceso
+ANSWER: C
+
+¿Qué tipo de tarea en BPM se utiliza cuando se requiere que una persona la ejecute?
+A. Tarea de servicio
+B. Tarea automática
+C. Tarea de usuario
+D. Evento de mensaje
+ANSWER: C
+
+¿Cuál es el propósito de una tarea de servicio en BPMN?
+A. Ejecutar una actividad que requiere decisión humana
+B. Iniciar un proceso manual externo
+C. Interactuar con un sistema o servicio automatizado
+D. Controlar el flujo condicional del proceso
+ANSWER: C
+
+¿Qué sucede cuando una tarea se marca como completada en un BPM?
+A. El proceso se reinicia desde el principio
+B. Se elimina del historial del proceso
+C. El flujo de trabajo avanza al siguiente paso definido
+D. El usuario debe confirmar su ejecución manualmente siempre
+ANSWER: C
+
+¿Cuál de los siguientes elementos NO es un tipo de tarea en BPMN?
+A. Tarea de usuario
+B. Tarea de recepción
+C. Tarea de envío
+D. Tarea de evaluación
+ANSWER: D
+
+¿Cuál es el propósito principal de un subproceso en BPM?
+A. Aumentar la complejidad del modelo
+B. Ejecutar eventos externos al proceso
+C. Reutilizar y organizar partes del proceso principal
+D. Reemplazar completamente el proceso principal
+ANSWER: C
+
+¿Cuál de los siguientes subprocesos se ejecuta como parte del flujo principal y su lógica está totalmente visible en el diagrama?
+A. Subproceso colapsado
+B. Subproceso embebido
+C. Subproceso de evento
+D. Subproceso independiente
+ANSWER: B
+
+¿Qué característica distingue a un subproceso colapsado en BPMN?
+A. Contiene lógica visible dentro del diagrama
+B. Está diseñado exclusivamente para eventos de error
+C. Se representa con un signo "+" y oculta su contenido interno
+D. No puede reutilizarse en otros procesos
+ANSWER: C
+
+¿Cuál es una ventaja clave de utilizar subprocesos reutilizables en BPM?
+A. Aumentan la redundancia del proceso
+B. Evitan el uso de diagramas principales
+C. Permiten mantener lógica común en un solo lugar
+D. Solo son útiles en tareas humanas
+ANSWER: C
+
+¿Qué tipo de subproceso se activa por un evento, como un mensaje o error, y puede interrumpir o no el proceso principal?
+A. Subproceso normal
+B. Subproceso embebido
+C. Subproceso de evento
+D. Subproceso manual
+ANSWER: C
+
+¿Qué representa un Depósito de Datos (Data Store) en un modelo BPMN?
+A. Un contenedor temporal de información de ejecución
+B. Un repositorio persistente de información accesible por tareas o procesos
+C. Un canal de comunicación entre procesos humanos
+D. Una interfaz gráfica de usuario para ingresar datos al sistema
+ANSWER: B
+
+¿Cuál de los siguientes elementos de BPMN se utiliza para conectar una tarea con un depósito de datos?
+A. Flujo de secuencia
+B. Asociación de datos
+C. Flujo de mensaje
+D. Evento de enlace
+ANSWER: B
+
+¿Qué diferencia principal existe entre un Data Store y un Data Object en BPMN?
+A. El Data Object es persistente y el Data Store no
+B. El Data Store es parte de una tarea y el Data Object es global
+C. El Data Store conserva datos entre instancias del proceso, el Data Object no
+D. Ambos elementos tienen exactamente el mismo propósito
+ANSWER: C
+
+¿En qué situación se usa un Depósito de Datos en BPMN?
+A. Para almacenar resultados que se deben conservar más allá de la ejecución del proceso
+B. Para controlar la lógica de flujo de un subproceso
+C. Para generar notificaciones a usuarios del sistema
+D. Para capturar eventos temporales del entorno externo
+ANSWER: A
+
+¿Qué representa la dirección de la flecha en una Asociación de Datos hacia o desde un Depósito de Datos?
+A. Si el proceso se detiene o continúa
+B. Si el dato se copia o se mueve
+C. Si la tarea lee (entrada) o escribe (salida) datos
+D. Si el dato es válido o no
+ANSWER: C
+
+¿Qué tipo de compuerta se utiliza para unir múltiples flujos en uno solo sin condiciones?
+A. Compuerta exclusiva (XOR)
+B. Compuerta paralela (AND)
+C. Compuerta inclusiva (OR)
+D. Evento de fin
+ANSWER: B
+
+¿Cuál de las siguientes afirmaciones sobre la compuerta exclusiva (XOR) es correcta en una convergencia de flujo?
+A. Permite que todos los caminos activos se unan simultáneamente
+B. Espera que todos los flujos lleguen antes de continuar
+C. Solo uno de los flujos entrantes puede llegar a la compuerta
+D. Selecciona el camino con menor tiempo de ejecución
+ANSWER: C
+
+¿Qué sucede si en una convergencia con compuerta paralela (AND) no todos los flujos llegan?
+A. El proceso avanza sin problemas
+B. El flujo se bloquea y nunca continúa
+C. El sistema elige el flujo más corto
+D. Se activa una compuerta de error automáticamente
+ANSWER: B
+
+¿Cuál es la principal ventaja de una compuerta inclusiva (OR) en convergencia?
+A. Solo acepta un flujo de entrada
+B. Permite la convergencia flexible de múltiples caminos activos
+C. Reduce el tiempo de ejecución del proceso
+D. Se utiliza para representar tareas manuales
+ANSWER: B
+
+¿Cuál es el riesgo más común al usar convergencias paralelas (AND) sin una correcta coordinación de flujos previos?
+A. Pérdida de datos
+B. Desincronización visual del diagrama
+C. Deadlock o bloqueo del proceso
+D. Ejecución simultánea no controlada
+ANSWER: C
+
+¿Qué representa un evento en un modelo BPMN?
+A. Una tarea ejecutada manualmente
+B. Un cambio de rol en un proceso
+C. Algo que ocurre e impacta el flujo del proceso
+D. Una condición lógica de salida
+ANSWER: C
+
+¿Cuál de los siguientes eventos se utiliza para indicar el comienzo de un proceso?
+A. Evento intermedio
+B. Evento de fin
+C. Evento de error
+D. Evento de inicio
+ANSWER: D
+
+¿Qué tipo de evento BPMN puede interrumpir un proceso o subproceso cuando ocurre?
+A. Evento de mensaje no interruptivo
+B. Evento intermedio de error interruptivo
+C. Evento de temporizador condicional
+D. Evento de fin estándar
+ANSWER: B
+
+¿Qué evento BPMN se usa para representar una espera por un mensaje externo antes de continuar?
+A. Evento de error
+B. Evento intermedio de mensaje
+C. Evento de fin
+D. Compuerta paralela
+ANSWER: B
+
+¿Cuál es el efecto de un evento de fin en un proceso BPMN?
+A. Marca el punto donde se guarda el estado del proceso
+B. Activa el siguiente subproceso
+C. Indica la finalización del flujo actual
+D. Requiere una aprobación para continuar
+ANSWER: C
+
+Las compuertas o puertas de enlace, nos permiten dividir o unir flujos
+A. Verdadero
+B. Falso
+ANSWER: A
+
+Un subproceso no pertenece a la clase de actividades
+A. Verdadero
+B. Falso
+ANSWER: B
+
+
+
+
+
+
+

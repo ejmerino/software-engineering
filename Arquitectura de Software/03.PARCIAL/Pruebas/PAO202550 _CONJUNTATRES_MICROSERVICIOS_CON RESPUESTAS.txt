@@ -1,0 +1,489 @@
+¿Qué son los microservicios en arquitectura de software?
+A. Componentes monolíticos de una aplicación.
+B. Pequeñas unidades de funcionalidad independientes.
+C. Elementos gráficos en una interfaz de usuario.
+D. Sistemas operativos para dispositivos móviles.
+ANSWER: B
+
+¿Cuál es uno de los beneficios clave de los microservicios?
+A. Mayor complejidad en el desarrollo.
+B. Facilidad para mantener y escalar partes individuales de una aplicación.
+C. Limitación en la cantidad de servicios que pueden utilizarse.
+D. Dependencia en un único servicio para toda la aplicación.
+ANSWER: B
+
+¿Cuál es la idea principal detrás de la arquitectura de microservicios?
+A. Crear una aplicación monolítica única.
+B. Dividir una aplicación en componentes independientes y autónomos.
+C. Construir una aplicación en un único servidor.
+D. Utilizar una arquitectura cliente-servidor.
+ANSWER: B
+
+¿Qué implicación tiene la independencia de los microservicios en términos de tecnología?
+A. Todos los microservicios deben utilizar la misma tecnología.
+B. Cada microservicio puede utilizar la tecnología más conveniente para su función.
+C. Los microservicios no pueden utilizar tecnología alguna.
+D. Los microservicios solo pueden utilizar tecnologías propietarias.
+ANSWER: B
+
+¿Cuál es uno de los desafíos comunes al implementar microservicios?
+A. Reducción de la escalabilidad.
+B. Dificultad en la comunicación entre microservicios.
+C. Menor aislamiento de responsabilidades.
+D. Mayor dependencia de un único servidor.
+ANSWER: B
+
+¿Qué tipo de comunicación se utiliza comúnmente entre microservicios?
+A. Comunicación síncrona mediante llamadas a procedimientos remotos.
+B. Comunicación asíncrona a través de llamadas HTTP.
+C. Comunicación exclusiva mediante bases de datos compartidas.
+D. Comunicación a través de archivos locales.
+ANSWER: A
+
+¿Qué es la "descomposición funcional" en la arquitectura de microservicios?
+A. El proceso de crear microservicios más grandes y complejos.
+B. La técnica de dividir una aplicación en microservicios más pequeños y especializados.
+C. La práctica de fusionar microservicios para simplificar la administración.
+D. El proceso de reemplazar microservicios con componentes monolíticos.
+ANSWER: B
+
+¿Qué se entiende por "escalabilidad horizontal" en el contexto de microservicios?
+A. Agregar más funciones a un microservicio.
+B. Aumentar la capacidad de cómputo de un servidor.
+C. Agregar más microservicios a la arquitectura.
+D. Aumentar la complejidad de los microservicios.
+ANSWER: C
+
+¿Cuál de los siguientes es un ejemplo de una tecnología de contenedorización utilizada para implementar microservicios?
+A. HTML
+B. Docker
+C. jQuery
+D. Node.js
+ANSWER: B
+
+¿Qué es la "tolerancia a fallos" en el contexto de microservicios?
+A. La incapacidad de los microservicios para recuperarse de errores.
+B. La resistencia de los microservicios a cualquier cambio.
+C. La capacidad de los microservicios para mantenerse operativos en caso de errores o fallas.
+D. La dependencia de un único microservicio para todo el sistema.
+ANSWER: C
+
+¿Qué es un microservicio? 
+A. Un sistema monolítico con múltiples módulos
+B. Un servicio pequeño e independiente que realiza una única función
+C. Un tipo de arquitectura de bases de datos distribuidas
+D. Un sistema de contenedores para ejecutar aplicaciones
+ANSWER: B
+
+¿Cuál es la principal ventaja de usar microservicios en lugar de una arquitectura monolítica? 
+A. Mayor complejidad de desarrollo
+B. Escalabilidad independiente de cada servicio
+C. Mayor tiempo de implementación
+D. Menor uso de recursos computacionales
+ANSWER: B
+
+¿Qué protocolo es comúnmente usado para la comunicación entre microservicios? 
+A. FTP
+B. HTTP/HTTPS
+C. SMTP
+D. Telnet
+ANSWER: B
+
+¿Cuál de las siguientes herramientas se utiliza para gestionar la orquestación de microservicios? 
+A. Kubernetes
+B. GitHub
+C. Jenkins
+D. MySQL
+ANSWER: A
+
+¿Qué es un API Gateway en una arquitectura de microservicios? 
+A. Un sistema de almacenamiento de datos centralizado.
+B. Un servicio que autentica y autoriza usuarios
+C. Un servicio que actúa como punto de entrada para todas las solicitudes a los microservicios
+D. Una base de datos distribuida
+ANSWER: C
+
+¿Cuál es el principal reto de los microservicios? 
+A. La escalabilidad
+B. La comunicación y coordinación entre servicios
+C. La reducción de costos
+D. La facilidad de mantenimiento
+ANSWER: B
+
+¿Qué patrón de diseño se utiliza comúnmente para gestionar la comunicación entre microservicios? 
+A. Singleton
+B. Event Sourcing
+C. CQRS (Command Query Responsibility Segregation)
+D. Factory
+ANSWER: C
+
+¿Cómo se gestionan las bases de datos en una arquitectura de microservicios? 
+A. Con una única base de datos centralizada para todos los servicios
+B. Cada microservicio puede tener su propia base de datos independiente
+C. Las bases de datos no se utilizan en microservicios
+D. Utilizando bases de datos NoSQL exclusivamente
+ANSWER: B
+
+¿Cuál es una ventaja de usar contenedores (como Docker) para microservicios? 
+A. Aislamiento y portabilidad de los servicios
+B. Mayor consumo de recursos
+C. Dificulta la comunicación entre microservicios
+D. Dependencia de un único sistema operativo
+ANSWER: A
+
+¿Qué es el “Circuit Breaker” en la arquitectura de microservicios? 
+A. Un servicio para manejar las autenticaciones
+B. Un patrón de diseño para evitar fallos en cascada
+C. Una herramienta para la integración continua
+D. Un servicio para gestionar bases de datos
+ANSWER: B
+
+¿Qué técnica se utiliza para garantizar la alta disponibilidad de microservicios? 
+A. Replicación de datos en un único servidor
+B. Uso de bases de datos en memoria
+C. Despliegue en múltiples instancias y zonas geográficas
+D. Uso de una única instancia de microservicio
+ANSWER: C
+
+¿Qué tipo de pruebas son más complejas en una arquitectura de microservicios? 
+A. Pruebas unitarias
+B. Pruebas de integración y de sistemas
+C. Pruebas de rendimiento
+D. Pruebas de seguridad
+ANSWER: B
+
+¿Qué enfoque de monitoreo es más adecuado para una arquitectura de microservicios? 
+A. Monitoreo centralizado
+B. Monitoreo individual por cada microservicio
+C. Monitoreo solo del API Gateway
+D. Monitoreo sin registros
+ANSWER: A
+
+¿Qué es un "Service Discovery" en microservicios? 
+A. Un mecanismo para descubrir nuevas bases de datos
+B. Un patrón para encontrar y comunicar servicios dentro de una red
+C. Un servicio para autenticar usuarios
+D. Un sistema de mensajería en tiempo real
+ANSWER: B
+
+¿Qué es el "Event-Driven Architecture" en microservicios? 
+A. Un modelo de procesamiento basado en eventos para mejorar la comunicación entre microservicios
+B. Un tipo de base de datos distribuida
+C. Un patrón de diseño para optimizar el rendimiento de las bases de datos
+D. Un sistema para almacenar logs de eventos
+ANSWER: A
+
+¿Qué tipo de servicios son comunes en una arquitectura de microservicios? 
+A. Servicios de computación centralizada
+B. Servicios autónomos e independientes
+C. Servicios que comparten datos entre sí
+D. Servicios que dependen de un único servidor
+ANSWER: B
+
+¿Cómo se maneja la consistencia de datos en una arquitectura de microservicios? 
+A. Usando una base de datos global
+B. Asegurando la consistencia a través de transacciones distribuidas
+C. Usando bases de datos en memoria
+D. Permitiendo inconsistencias temporales y resolviéndolas posteriormente
+ANSWER: D
+
+¿Qué herramienta se utiliza comúnmente para la integración continua en microservicios? 
+A. Jenkins
+B. MongoDB
+C. RabbitMQ
+D. Redis
+ANSWER: A
+
+¿Qué es la "Descentralización" en microservicios? 
+A. Cuando todos los microservicios se conectan a una base de datos centralizada
+B. Cuando cada microservicio maneja su propio ciclo de vida, datos y lógica de negocio
+C. Cuando los microservicios dependen de un único servicio maestro
+D. Cuando los microservicios operan sin necesidad de interacción
+ANSWER: B
+
+¿Cómo se realiza el escalado de un microservicio? 
+A. Escalando toda la infraestructura monolítica
+B. Agregando más instancias de microservicio según demanda
+C. Mejorando el rendimiento de la base de datos central
+D. Reemplazando el microservicio con otro
+ANSWER: B
+
+¿Cuál de los siguientes frameworks es comúnmente utilizado para crear microservicios en Java?
+A. Spring Boot
+B. Hibernate
+C. JavaFX
+D. JUnit
+ANSWER: A
+
+¿Qué es Spring Cloud?
+A. Un servicio para administrar bases de datos
+B. Un conjunto de herramientas para crear microservicios distribuidos con Spring
+C. Un protocolo de comunicación para microservicios
+D. Un servidor de aplicaciones Java
+ANSWER: B
+
+¿Cuál es la principal ventaja de usar Spring Boot para crear microservicios?
+A. Simplificación del despliegue
+B. Mayor tiempo de desarrollo
+C. Necesidad de más configuración
+D. Escalabilidad limitada
+ANSWER: A
+
+¿Qué anotación de Spring Boot se utiliza para crear un controlador REST?
+A. @Service
+B. @Controller
+C. @RestController
+D. @Repository
+ANSWER: C
+
+¿Qué función cumple Netflix Eureka en una arquitectura de microservicios?
+A. Un sistema de mensajería
+B. Un sistema de descubrimiento de servicios
+C. Un servidor web para aplicaciones Java
+D. Un balanceador de carga
+ANSWER: B
+
+¿Qué es un API Gateway en la arquitectura de microservicios en Java?
+A. Un servicio que ejecuta los microservicios en contenedores
+B. Un punto de entrada único para las solicitudes hacia los microservicios
+C. Un patrón de diseño para dividir servicios
+D. Un servicio de base de datos centralizado
+ANSWER: B
+
+¿Qué herramienta de Spring se utiliza para implementar la configuración centralizada en una arquitectura de microservicios?
+A. Spring Data
+B. Spring Kafka
+C. Spring Cloud Config
+D. Spring Batch
+ANSWER: C
+
+¿Cuál es la principal ventaja de utilizar bases de datos distribuidas en microservicios con Spring?
+A. Permite que los servicios dependan de una sola base de datos
+B. Cada microservicio maneja su propia base de datos, evitando el acoplamiento
+C. Se disminuye la complejidad de la arquitectura
+D. Es más sencillo realizar las copias de seguridad
+ANSWER: B
+
+¿Qué es el patrón Circuit Breaker en microservicios en Java?
+A. Un mecanismo para evitar que los fallos en un servicio afecten a otros
+B. Un sistema de control de versiones para microservicios
+C. Un protocolo de comunicación entre microservicios
+D. Un algoritmo de búsqueda en bases de datos
+ANSWER: A
+
+¿Qué herramienta en Java se usa comúnmente para la mensajería asincrónica entre microservicios?
+A. JMS (Java Message Service)
+B. JavaMail
+C. JavaFX
+D. JPA (Java Persistence API)
+ANSWER: A
+
+¿Qué tipo de seguridad se debe implementar en una arquitectura de microservicios con Spring?
+A. Seguridad única en el API Gateway
+B. Seguridad integrada en cada microservicio
+C. No es necesario implementar seguridad
+D. Seguridad solo en el servidor de bases de datos
+ANSWER: B
+
+¿Cómo se gestiona el registro y la monitorización de microservicios en Java?
+A. Usando Spring Boot Actuator
+B. Usando JPA
+C. Usando JavaFX
+D. Usando Spring Security
+ANSWER: A
+
+¿Qué servicio de Spring se utiliza para el balanceo de carga en microservicios?
+A. Spring WebFlux
+B. Spring Cloud Load Balancer
+C. Spring Boot Starter
+D. Spring Data JPA
+ANSWER: B
+
+¿Qué tipo de bases de datos es más común usar en arquitecturas de microservicios con Java?
+A. Bases de datos relacionales únicas para todos los servicios
+B. Bases de datos NoSQL para todos los servicios
+C. Cada microservicio tiene su propia base de datos independiente
+D. Bases de datos distribuidas sin conexiones entre microservicios
+ANSWER: C
+
+¿Qué es un "Service Registry" en la arquitectura de microservicios en Java?
+A. Un servicio que gestiona las configuraciones globales
+B. Un sistema para almacenar logs de servicios
+C. Un sistema para registrar y localizar servicios en la red
+D. Un servicio para actualizar las versiones de microservicios
+ANSWER: C
+
+¿Qué patrón se utiliza para asegurar que un microservicio se comunique de manera asíncrona con otros?
+A. Pub/Sub (Publicar/Suscribir)
+B. Singleton
+C. Factory
+D. Adapter
+ANSWER: A
+
+¿Qué biblioteca se usa en Java para implementar un cliente HTTP en un microservicio Spring Boot?
+A. RestTemplate
+B. EntityManager
+C. JPA
+D. JavaMail
+ANSWER: A
+
+¿Qué es el patrón "API Gateway" en una arquitectura de microservicios?
+A. Un punto de acceso único para todas las solicitudes de los clientes
+B. Un sistema de bases de datos
+C. Un servidor para gestionar contenedores
+D. Un patrón de mensajería entre microservicios
+ANSWER: B
+
+¿Qué anotación de Spring se utiliza para inyectar dependencias en un microservicio?
+A. @Entity
+B. @Autowired
+C. @Component
+D. @Service
+ANSWER: B
+
+¿Qué es un "Choreography" en una arquitectura de microservicios?
+A. Un modelo centralizado de comunicación
+B. Un enfoque de comunicación entre microservicios basado en eventos donde no hay un coordinador central
+C. Un servicio de gestión de bases de datos
+D. Un algoritmo de balanceo de carga
+ANSWER: B
+ 
+¿Qué framework de .NET es comúnmente utilizado para crear microservicios?
+A. ASP.NET Core
+B. WinForms
+C. WPF
+D. Entity Framework
+ANSWER: A
+
+¿Qué patrón de diseño se utiliza comúnmente para la autenticación y autorización en microservicios en .NET?
+A. OAuth 2.0
+B. Singleton
+C. Observer
+D. Proxy
+ANSWER: A
+
+¿Cuál es la principal ventaja de usar contenedores (como Docker) en microservicios en .NET?
+A. Aislamiento de servicios
+B. Mayor complejidad en el desarrollo
+C. Consumo reducido de memoria
+D. Menor tiempo de despliegue
+ANSWER: A
+
+¿Qué herramienta de .NET se utiliza para gestionar la configuración centralizada en una arquitectura de microservicios?
+A. Azure Key Vault
+B. Entity Framework
+C. ASP.NET Identity
+D. SQL Server Management Studio
+ANSWER: A
+
+¿Qué biblioteca de .NET se usa para la mensajería asincrónica entre microservicios?
+A. SignalR
+B. RabbitMQ
+C. SQL Server
+D. EF Core
+ANSWER: B
+
+¿Qué es un API Gateway en la arquitectura de microservicios en .NET?
+A. Un servicio de autenticación único para todos los microservicios
+B. Un servicio que actúa como punto de entrada y enruta las solicitudes a los microservicios correspondientes
+C. Un microservicio que gestiona las bases de datos
+D. Un servicio para la creación de interfaces de usuario
+ANSWER: B
+
+¿Qué patrón se utiliza para garantizar que los microservicios continúen funcionando a pesar de fallos?
+A. Circuit Breaker
+B. Proxy
+C. Singleton
+D. Facade
+ANSWER: A
+
+¿Qué es el "Service Discovery" en una arquitectura de microservicios en .NET?
+A. Un patrón para gestionar bases de datos distribuidas
+B. Un mecanismo para registrar y localizar microservicios dentro de una red
+C. Un sistema para gestionar la seguridad de microservicios
+D. Un servicio para autenticar a los usuarios
+ANSWER: B
+
+¿Qué es un "Container Orchestration" en microservicios de .NET?
+A. Un sistema para gestionar bases de datos distribuidas
+B. Una herramienta para gestionar la ejecución de múltiples contenedores
+C. Un patrón de diseño para la creación de microservicios
+D. Una librería de autenticación para servicios distribuidos
+ANSWER: B
+
+¿Qué es un "Event-Driven Architecture" en microservicios en .NET?
+A. Un patrón para estructurar la base de datos
+B. Un patrón de comunicación entre microservicios basado en eventos y mensajes
+C. Un sistema de mensajería con bases de datos SQL
+D. Un modelo de procesamiento de datos síncrono
+ANSWER: B
+
+¿Qué librería de .NET se utiliza para la persistencia de datos en microservicios?
+A. Entity Framework Core
+B. ASP.NET Core
+C. Azure Functions
+D. Windows Forms
+ANSWER: A
+
+¿Qué es la "Descentralización de bases de datos" en microservicios?
+A. Todos los microservicios usan la misma base de datos centralizada
+B. Cada microservicio tiene su propia base de datos, de modo que cada servicio puede gestionar su persistencia de forma independiente
+C. Se utiliza solo una base de datos NoSQL para todos los microservicios
+D. Los microservicios no necesitan una base de datos
+ANSWER: B
+
+¿Qué servicio en Azure es comúnmente utilizado para administrar la identidad y el acceso en una arquitectura de microservicios?
+A. Azure Cosmos DB
+B. Azure Active Directory
+C. Azure Functions
+D. Azure Kubernetes Service
+ANSWER: B
+
+¿Qué patrón de diseño se usa para dividir el acceso a la información de lectura y escritura en microservicios?
+A. CQRS (Command Query Responsibility Segregation)
+B. Singleton
+C. Adapter
+D. Composite
+ANSWER: A
+
+¿Cuál es la ventaja de usar un API Gateway en microservicios con .NET?
+A. Centraliza las peticiones y las distribuye a los microservicios apropiados
+B. Realiza todas las operaciones de base de datos
+C. Proporciona servicios de computación en la nube
+D. Ejecuta microservicios dentro de un contenedor
+ANSWER: A
+
+¿Qué es "Resiliencia" en el contexto de microservicios?
+A. La capacidad de los microservicios para conectarse a una base de datos
+B. La capacidad de los microservicios de seguir funcionando correctamente a pesar de fallos o problemas
+C. La capacidad de los microservicios para almacenar datos de forma eficiente
+D. La capacidad de los microservicios de iniciar múltiples procesos
+ANSWER: B
+
+¿Qué tecnología se utiliza comúnmente en microservicios para orquestar la ejecución de contenedores?
+A. Azure App Services
+B. Kubernetes
+C. Azure SQL Database
+D. Docker Compose
+ANSWER: B
+
+¿Qué es el patrón "Saga" en una arquitectura de microservicios?
+A. Un patrón para gestionar transacciones distribuidas y mantener la coherencia
+B. Un sistema para manejar errores en microservicios
+C. Un servicio de mensajería
+D. Un tipo de base de datos NoSQL
+ANSWER: A
+
+¿Qué componente de .NET se utiliza para integrar microservicios con eventos y mensajes en tiempo real?
+A. ASP.NET Web API
+B. SignalR
+C. Entity Framework Core
+D. Azure Blob Storage
+ANSWER: B
+
+¿Qué patrón de diseño se utiliza para asegurar que un microservicio no dependa directamente de la disponibilidad de otros microservicios?
+A. Circuit Breaker
+B. Singleton
+C. Factory
+D. Composite
+ANSWER: A

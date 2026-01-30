@@ -1,0 +1,521 @@
+¿Qué es un mashup en el contexto de la informática?
+A. Una mezcla de diferentes ingredientes culinarios.
+B. Una combinación de música y vídeo en tiempo real.
+C. Una aplicación web que combina datos o funcionalidades de múltiples fuentes.
+D. Un término coloquial para referirse a un equipo de programadores.
+ANSWER: C
+
+¿Cuál es el objetivo principal de un mashup?
+A. Crear aplicaciones independientes sin interacción con otras fuentes.
+B. Simplificar las interacciones con una sola fuente de datos.
+C. Combinar datos o funcionalidades de diversas fuentes para crear nuevas aplicaciones.
+D. Limitar el acceso a servicios externos para mejorar la seguridad.
+ANSWER: C
+
+¿Qué tecnologías son comúnmente utilizadas en el desarrollo de mashups?
+A. JavaScript, HTML y CSS.
+B. Lenguaje C++, Python y Java.
+C. ASP.NET, PHP y Ruby on Rails.
+D. MySQL, Oracle y SQL Server.
+ANSWER: A
+
+¿Qué tipo de mashup utiliza principalmente APIs de diferentes servicios web?
+A. Mashup de datos.
+B. Mashup de música.
+C. Mashup de imágenes.
+D. Mashup de videos.
+ANSWER: A
+
+¿Cuál es un ejemplo de un mashup famoso?
+A. Facebook.
+B. Google Maps.
+C. Microsoft Office.
+D. Photoshop.
+ANSWER: B
+
+¿Qué es un mashup en el contexto de desarrollo de software?
+A. Una técnica de criptografía en Java.
+B. La combinación de dos o más APIs o servicios web para crear una nueva aplicación.
+C. Una biblioteca gráfica para crear interfaces de usuario en Java.
+D. Un método de optimización de base de datos en Java.
+ANSWER: B
+
+¿Por qué es importante considerar la seguridad al implementar mashups en Java?
+A. No es necesario preocuparse por la seguridad en mashups.
+B. Los mashups no pueden ser implementados en Java.
+C. Debido a que los datos de diferentes fuentes pueden ser potencialmente inseguros o maliciosos.
+D. La seguridad solo es importante en aplicaciones nativas, no en mashups.
+ANSWER: C
+
+¿Cuál es un beneficio clave de implementar mashups en Java?
+A. No requiere conexión a Internet.
+B. Requiere menos programación que otras plataformas.
+C. Permite la creación de aplicaciones altamente personalizadas al combinar múltiples fuentes de datos.
+D. Es más lento en comparación con otras tecnologías.
+ANSWER: C
+
+¿Qué es un mashup en el contexto de desarrollo de software en .NET?
+A. Una técnica de encriptación de datos en .NET.
+B. La integración de varios lenguajes de programación en una sola aplicación .NET.
+C. La combinación de datos y servicios de diferentes fuentes para crear una nueva aplicación en .NET.
+D. Un sistema de gestión de bases de datos en .NET.
+ANSWER: C
+
+¿Cuál es un ejemplo de un mashup implementado en .NET?
+A. Combinar diferentes algoritmos de encriptación en una aplicación.
+B. Integrar varios frameworks de desarrollo en una sola aplicación.
+C. Unir datos de un servicio de redes sociales con información de un servicio de mapas para mostrar la ubicación de amigos en un mapa.
+D. Utilizar múltiples sistemas operativos en una misma aplicación.
+ANSWER: C
+
+¿Cuál es el papel de .NET en la implementación de mashups?
+A. .NET proporciona una interfaz gráfica para diseñar mashups.
+B. .NET solo se utiliza para optimizar el rendimiento de las aplicaciones.
+C. .NET es utilizado para combinar y procesar datos de diferentes fuentes, crear lógica y presentar resultados.
+D. .NET se utiliza exclusivamente para encriptar la comunicación entre servicios web.
+ANSWER: C
+
+¿Por qué es importante considerar la seguridad al implementar mashups en .NET?
+A. La seguridad no es relevante en las aplicaciones .NET.
+B. .NET no permite la implementación de mashups.
+C. Los datos provenientes de diferentes fuentes pueden contener amenazas de seguridad.
+D. La seguridad solo es necesaria en aplicaciones móviles, no en mashups.
+ANSWER: C
+
+¿Cuál es un beneficio clave de implementar mashups en .NET?
+A. No requiere acceso a servicios web o APIs.
+B. Requiere menos código en comparación con otras tecnologías.
+C. Permite la creación de aplicaciones más ricas y personalizadas al combinar datos y servicios de diferentes fuentes.
+D. Es menos flexible en comparación con otras tecnologías.
+ANSWER: C
+
+¿Cuál de las siguientes tecnologías se utiliza comúnmente para integrar datos y contenido de diferentes fuentes en un mashup web?
+A. JSON
+B. XML
+C. CSS
+D. HTML
+ANSWER: A
+
+¿Qué tipo de API se utiliza típicamente para acceder a datos y servicios web externos en el desarrollo de mashups web?
+A. REST
+B. SOAP
+C. GraphQL
+D. TCP/IP
+ANSWER: A
+
+¿Cuál de las siguientes características es esencial para la seguridad de un mashup web?
+A. XSS (Cross-Site Scripting)
+B. SQL Injection
+C. CSRF (Cross-Site Request Forgery)
+D. Ninguna de las anteriores
+ANSWER: C
+
+¿Qué herramienta es comúnmente utilizada para el desarrollo de mashups web en el lado del cliente?
+A. React.js
+B. Express.js
+C. Flask
+D. jQuery
+ANSWER: D
+
+¿Qué enfoque de autenticación es comúnmente utilizado para acceder a APIs externas en mashups web?
+A. Basic Authentication
+B. OAuth
+C. JWT (JSON Web Tokens)
+D. NTLM (Windows Integrated Authentication)
+ANSWER: B
+
+¿Qué lenguaje de marcado se utiliza comúnmente para definir la estructura y el contenido de las páginas web en un mashup?
+A. XML
+B. HTML
+C. CSS
+D. JavaScript
+ANSWER: B
+
+¿Qué tipo de autenticación se utiliza comúnmente para acceder a recursos locales en un mashup web?
+A. OAuth
+B. Basic Authentication
+C. NTLM
+D. JWT
+ANSWER: B
+
+¿Qué técnica se utiliza comúnmente para evitar problemas de seguridad como la inyección de código malicioso en un mashup web?
+A. Validación de datos
+B. Escapado de caracteres
+C. Sanitización de entradas
+D. Todas las anteriores
+ANSWER: D
+
+¿Cuál de las siguientes tecnologías se utiliza comúnmente para el intercambio de datos entre el cliente y el servidor en un mashup web?
+A. JSON
+B. XML
+C. SQL
+D. Ninguna de las anteriores
+ANSWER: A
+
+¿Qué tipo de arquitectura es comúnmente utilizada para el desarrollo de mashups web que requieren integración de múltiples fuentes de datos y servicios?
+A. Monolítica
+B. Microservices
+C. Client-Server
+D. Service-Oriented Architecture (SOA)
+ANSWER: D
+
+¿Cuál de las siguientes tecnologías es fundamental para la integración de datos en un mashup?
+A. XML
+B. SQL
+C. JSON
+D. HTML
+ANSWER: C
+
+¿Qué protocolo se utiliza comúnmente para la integración de servicios web en mashups?
+A. FTP (File Transfer Protocol)
+B. HTTP (Hypertext Transfer Protocol)
+C. SMTP (Simple Mail Transfer Protocol)
+D. XML-RPC (XML Remote Procedure Call)
+ANSWER: B
+
+¿Cuál de las siguientes tecnologías es esencial para el desarrollo de mashups del lado del cliente?
+A. Java
+B. Python
+C. jQuery
+D. Ruby on Rails
+ANSWER: C
+
+¿Qué enfoque de autenticación se utiliza comúnmente en mashups para acceder a APIs externas?
+A. JWT (JSON Web Tokens)
+B. Basic Authentication
+C. OAuth
+D. NTLM (Windows Integrated Authentication)
+ANSWER: C
+
+¿Qué tipo de arquitectura se utiliza comúnmente en el desarrollo de mashups para integrar múltiples servicios web?
+A. Monolítica
+B. Cliente-servidor
+C. Orientada a Servicios (SOA)
+D. Peer-to-peer
+ANSWER: C
+
+¿Cuál de los siguientes no es un método común para evitar problemas de seguridad en mashups?
+A. Validación de datos
+B. Encriptación de datos
+C. Uso de HTTPS
+D. Exposición de credenciales en el código fuente
+ANSWER: D
+
+¿Qué tecnología se utiliza comúnmente para la transmisión de datos estructurados en mashups?
+A. HTML
+B. XML
+C. CSS
+D. JavaScript
+ANSWER: B
+
+¿Qué tipo de prueba es esencial para garantizar la calidad y la seguridad en el desarrollo de mashups?
+A. Pruebas unitarias
+B. Pruebas de penetración
+C. Pruebas de aceptación del usuario
+D. Todas las anteriores
+ANSWER: D
+
+¿Qué tecnología se utiliza comúnmente para el intercambio de datos entre el cliente y el servidor en mashups web?
+A. SQL
+B. HTML
+C. JavaScript
+D. AJAX (Asynchronous JavaScript and XML)
+ANSWER: D
+
+¿Qué método se utiliza comúnmente para integrar contenido de diferentes fuentes en un mashup?
+A. Web scraping
+B. FTP (File Transfer Protocol)
+C. API (Application Programming Interface)
+D. SOAP (Simple Object Access Protocol)
+ANSWER: C
+
+¿Cuál de las siguientes tecnologías es más comúnmente utilizada en el desarrollo de mashups web?
+A. HTML
+B. Java
+C. JavaScript
+D. PHP
+ANSWER: C
+
+¿Qué protocolo de comunicación es ampliamente utilizado en el intercambio de datos entre el cliente y el servidor en mashups web?
+A. FTP
+B. HTTP
+C. SMTP
+D. SSH
+ANSWER: B
+
+¿Cuál de las siguientes es una práctica de seguridad importante en el desarrollo de mashups?
+A. Validación de datos de entrada
+B. Uso de contraseñas en texto plano
+C. Ejecución de código no confiable en el servidor
+D. Ninguna de las anteriores
+ANSWER: A
+
+¿Cuál de las siguientes herramientas es más comúnmente utilizada para el desarrollo de interfaces de usuario en mashups web?
+A. AngularJS
+B. Ruby on Rails
+C. Flask
+D. Django
+ANSWER: A
+
+¿Qué tipo de autenticación es comúnmente utilizada para acceder a APIs externas en mashups?
+A. OAuth
+B. Basic Authentication
+C. JWT
+D. NTLM
+ANSWER: A
+
+¿Cuál de las siguientes tecnologías se utiliza para integrar contenido de diferentes fuentes en un mashup?
+A. XML-RPC
+B. SOAP
+C. API RESTful
+D. FTP
+ANSWER: C
+
+¿Cuál de las siguientes prácticas es importante para mejorar el rendimiento de un mashup web?
+A. Uso excesivo de recursos del servidor
+B. Minimización de solicitudes HTTP
+C. No almacenar en caché recursos estáticos
+D. Todas las anteriores
+ANSWER: B
+
+¿Qué técnica se utiliza comúnmente para evitar problemas de seguridad como la inyección de código malicioso en mashups web?
+A. Validación de datos de entrada
+B. Escapado de caracteres
+C. Sanitización de entradas
+D. Todas las anteriores
+ANSWER: D
+
+¿Cuál de las siguientes es una consideración importante al desarrollar mashups móviles?
+A. Diseño responsive
+B. Uso exclusivo de tecnologías nativas
+C. Falta de soporte para APIs
+D. Ninguna de las anteriores
+ANSWER: A
+
+¿Cuál de las siguientes arquitecturas es más adecuada para el desarrollo de mashups?
+A. Arquitectura monolítica
+B. Arquitectura orientada a servicios (SOA)
+C. Arquitectura distribuida
+D. Arquitectura cliente-servidor
+ANSWER: B
+
+¿Cuál de las siguientes tecnologías es esencial para la interacción dinámica en un mashup?
+A. HTML
+B. CSS
+C. JavaScript
+D. PHP
+ANSWER: C
+
+¿Qué protocolo se utiliza comúnmente para la comunicación entre el cliente y el servidor en un mashup?
+A. SMTP
+B. FTP
+C. HTTP
+D. SSH
+ANSWER: C
+
+¿Cuál de las siguientes prácticas ayuda a mejorar la seguridad en el desarrollo de mashups?
+A. Validación de entradas de usuario
+B. Exposición de contraseñas en texto plano
+C. Ejecución de código no seguro en el servidor
+D. Ninguna de las anteriores
+ANSWER: A
+
+¿Qué tecnología se utiliza comúnmente para la implementación de interfaces de usuario en mashups?
+A. jQuery
+B. Ruby on Rails
+C. AngularJS
+D. Flask
+ANSWER: A
+
+¿Qué tipo de autenticación se utiliza comúnmente para acceder a servicios externos en mashups?
+A. OAuth
+B. Basic Authentication
+C. JWT
+D. NTLM
+ANSWER: A
+
+¿Qué tecnología se utiliza comúnmente para integrar contenido de diferentes fuentes en un mashup?
+A. SOAP
+B. XML-RPC
+C. API RESTful
+D. FTP
+ANSWER: C
+
+¿Cuál de las siguientes prácticas es importante para mejorar el rendimiento de un mashup?
+A. Aumentar el número de solicitudes HTTP
+B. No almacenar en caché recursos estáticos
+C. No minimizar las solicitudes HTTP
+D. Todas las anteriores
+ANSWER: D
+
+¿Qué técnica se utiliza comúnmente para evitar problemas de seguridad como la inyección de código malicioso en mashups?
+A. Escapado de caracteres
+B. Validación de datos de entrada
+C. Ejecución de código no seguro en el servidor
+D. Ninguna de las anteriores
+ANSWER: B
+
+¿Cuál de las siguientes es una consideración importante al desarrollar mashups móviles?
+A. Falta de soporte para APIs
+B. Uso exclusivo de tecnologías nativas
+C. Diseño responsive
+D. Ninguna de las anteriores
+ANSWER: C
+
+¿Qué tipo de arquitectura es más adecuada para el desarrollo de mashups?
+A. Arquitectura monolítica
+B. Arquitectura orientada a servicios (SOA)
+C. Arquitectura distribuida
+D. Arquitectura cliente-servidor
+ANSWER: B
+
+La arquitectura de un Mashup consta de tres participantes: Selecciona una de las siguientes respuestas posibles:
+A. La API, Hosting y los Proveedores de contenido
+B. La API, Proveedores de Contenido y Usuario
+C. La API, Hosting y Usuario
+D. Google, servidores, usuarios
+ANSWER: C
+
+Estos son algunos de los Formatos dedicados al Intercambio de Datos Selecciona una o más de las siguientes respuestas posibles:
+A. XML, CSS, HTML
+B. JSON, RSS, XML, CSS
+C. RSS, JSON, XML
+D. HTML, CSS, JSON
+ANSWER: C
+
+¿En qué etapa de la web nacen los mashups?
+A. Web 1.0
+B. Web 2.0
+C. Web 3.0
+D. Internet de las Cosas
+ANSWER: B
+
+Atendiendo a sus características los mashups se pueden agrupar en
+A. Mashups consumidores, Mashups de datos y Mashups empresariales.
+B. Mashups públicos, mashups privados y mashups híbridos
+C. Mashups como software. Mashups como infraestructura y Mashups como servicio
+D. APIs públicas y APIs privadas
+ANSWER: A
+
+Mashups que combinan datos de distintas fuentes y presentan una interfaz gráfica por lo general sencilla. 
+A. Mashups consumidores
+B. Mashups de datos
+C. Mashups Empresariales
+D. Mashups Musicales
+ANSWER: A
+
+Los mashups que mezclan información similar de distintas fuentes, presentando el resultado con un nuevo entorno gráfico. 
+A. Mashups consumidores
+B. Mashups de datos
+C. Mashups Empresariales
+D. Mashups Artísticos
+ANSWER: B
+
+El mashup que combina información tanto de fuentes externas como internas de la organización, aportando valor agregado a los datos de la propia institución.
+A. Mashups consumidores
+B. Mashups de datos
+C. Mashups Empresariales
+D. Mashup de fotografía
+ANSWER: C
+
+Un buen ejemplo de Mashups consumidor 
+A. Incluyen el API de Google Maps y Google Earth
+B. Son aquellos que consumes datos a través de varios Web feeds como Yahoo, Google y Twitter.
+C. Pueden ser enfocados incluso a un proceso o grupo de procesos determinado, agregando una funcionalidad colaborativa y obteniendo como resultado una aplicación de negocio apropiada.
+D. Aplicación monolítica
+ANSWER: B
+
+Un buen ejemplo de Mashup de Datos 
+A. Incluyen el API de Google Maps y Google Earth
+B. Son aquellos que consumes datos a través de varios Web feeds como Yahoo, Google y Twitter.
+C. Pueden ser enfocados incluso a un proceso o grupo de procesos determinado, agregando una funcionalidad colaborativa y obteniendo como resultado una aplicación de negocio apropiada.
+D. Aplicación monolítica
+ANSWER: B
+
+Un buen ejemplo de Mashups Empresarial 
+A. Incluyen el API de Google Maps y Google Earth
+B. Son aquellos que consumes datos a través de varios Web feeds como Yahoo, Google y Twitter.
+C. Pueden ser enfocados incluso a un proceso o grupo de procesos determinado, agregando una funcionalidad colaborativa y obteniendo como resultado una aplicación de negocio apropiada.
+D. Aplicación monolítica
+ANSWER: C
+
+A aquellos mashups que se desarrollan dentro de otros se les llaman 
+A. Mashups consumidores
+B. Mashups de datos
+C. Mashups Empresariales
+D. Mashups Musical.
+ANSWER: A
+
+Un usuario está desarrollando una aplicación para administrar de forma remota un dispositivo de red a través de la API. Las características de la API deben admitir el modelo cliente-servidor, el formato de datos JSON o XML y la operación sin estado. ¿Qué es un estilo de arquitectura API que el desarrollador podría usar?
+A. Webhook
+B. REST
+C. SOAP
+D. RPC
+ANSWER: B
+
+Una empresa manufacturera internacional está implementando una infraestructura industrial de la planta de Internet de las cosas. El diseño requiere que los recursos informáticos se encuentren lo más cerca posible del usuario. ¿Qué modelo de nube es adecuado para esta situación?
+A. Pública
+B. Híbrida
+C. Privada
+D. Perimetral
+ANSWER: D
+
+Un operador de red está probando una aplicación de administración de red que utiliza la API REST para comunicarse con dispositivos de red. El operador recibió un código de respuesta HTTP 403 en un paso de prueba. ¿Qué indica este código de respuesta?
+A. La página en la ubicación de URL HTTP no existe o está oculta.
+B. Error en la solicitud debido a un problema del lado del cliente.
+C. El cliente no se ha autenticado para acceder al sitio o a la llamada API.
+D. El acceso no se concede en función de las credenciales proporcionadas.
+ANSWER: D
+
+¿Qué funcione HTTP corresponde a la función ACTUALIZAR en CRUD? 
+A. POST
+B. DELETE
+C. PUT
+D. GET
+ANSWER: C
+
+¿Qué ataque implica la inserción de código malicioso en sentencias SQL?
+A. Fuerza bruta
+B. Inyección SQL
+C. inclusión de archivos locales
+D. Scripts entre sitios
+ANSWER: B
+
+¿Qué técnica se utiliza para ayudar a mitigar los ataques de inyección SQL?
+A. Utilizando procedimientos almacenados con el rol predeterminado «db_owner»
+B. Asignar derechos de acceso de administrador o de DBA a la cuenta de la aplicación
+C. Utilizando el mismo propietario o cuenta de administrador en las aplicaciones web para conectarse a la base de datos
+D. Limitar el acceso de lectura a campos específicos de una tabla o combinaciones de tablas
+ANSWER: D
+
+Un usuario realiza algunas llamadas API REST a un servidor y las respuestas del servidor incluyen código ejecutable de terceros. El usuario noto que las respuestas no funcionan. ¿Qué dispositivo de red puede impedir que se ejecute el código de terceros?
+A. Firewall
+B. Servidor proxy
+C. servidor proxy reversible
+D. Switch de capa 3
+ANSWER: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

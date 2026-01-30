@@ -1,0 +1,1888 @@
+1. El cálculo relacional de tuplas se caracteriza por:
+A. Ser un lenguaje procedimental
+B. Indicar cómo obtener los datos
+C. Ser un lenguaje declarativo
+D. Trabajar únicamente con valores individuales
+ANSWER: C
+
+2. ¿Cuál JOIN devuelve únicamente las filas con coincidencias en ambas tablas?
+A. LEFT JOIN
+B. RIGHT JOIN
+C. FULL OUTER JOIN
+D. INNER JOIN
+ANSWER: D
+
+3. La sentencia SQL usada para modificar valores en tuplas existentes es:
+A. INSERT
+B. UPDATE
+C. DELETE
+D. SELECT
+ANSWER: B
+
+4. ¿Qué es un sistema de información?
+A. Un conjunto de documentos físicos para controlar procesos
+B. Un conjunto de componentes que recolectan, procesan y distribuyen información
+C. Un programa para gestionar datos únicamente
+D. Un tipo de software financiero
+ANSWER: B
+
+5. ¿Cuál de los siguientes es un componente de un sistema de información?
+A. Diagramas UML
+B. Hardware
+C. Motores eléctricos
+D. Bases de datos gráficas
+ANSWER: B
+
+6. La propiedad de los datos que indica que deben estar disponibles cuando se necesitan es:
+A. Precisión
+B. Calidad
+C. Oportunidad
+D. Seguridad
+ANSWER: C
+
+7. Un sistema de bases de datos está gestionado por:
+A. Un lenguaje de programación
+B. Un SGBD
+C. Un entorno de hardware gráfico
+D. Un software antivirus
+ANSWER: B
+
+8. En el modelo ER, una entidad se representa mediante:
+A. Un rombo
+B. Un óvalo
+C. Un rectángulo
+D. Un triángulo
+ANSWER: C
+
+9. La cardinalidad 1:N indica que:
+A. Una entidad se relaciona con exactamente una de otra
+B. Muchas entidades se relacionan entre sí sin límites
+C. Una entidad se relaciona con muchas de otra entidad
+D. Ninguna entidad debe relacionarse
+ANSWER: C
+
+10. La normalización busca principalmente:
+A. Aumentar la cantidad de tablas
+B. Disminuir la redundancia de datos
+C. Eliminar todas las relaciones
+D. Crear claves compuestas
+ANSWER: B
+
+11. En un Data Warehouse con modelo estrella, un analista detecta que las consultas son lentas al filtrar por atributos de una dimensión muy granular (por ejemplo, DIM_CLIENTE con millones de filas). ¿Cuál es la acción más adecuada para mejorar el rendimiento sin romper el diseño dimensional?
+A. Normalizar completamente la dimensión y convertirla en un copo de nieve
+B. Convertir la dimensión en una tabla de hechos para reducir tamaño
+C. Crear jerarquías de atributos e índices específicos sobre dichas jerarquías
+D. Eliminar atributos de la dimensión para hacerla más pequeña
+ANSWER: C
+
+12. En una base OLTP altamente transaccional, se observa un incremento de deadlocks entre procesos simultáneos. ¿Cuál es la causa más probable?
+A. Índices demasiado grandes que ralentizan el acceso secuencial
+B. Acceso a tablas en distinto orden entre transacciones concurrentes
+C. El servidor no tiene suficiente almacenamiento SSD
+D. Exceso de normalización en tercera forma normal
+ANSWER: B
+
+13. Durante la implementación de una arquitectura ETL distribuida, un ingeniero define que la extracción debe hacerse desde múltiples fuentes heterogéneas vía ODBC, JDBC y APIs REST. ¿Cuál es la razón clave para separar extracción y transformación en ambientes  distribuidos?
+A. Evitar el uso de memoria en el servidor de base de datos
+B. Reducir la latencia de almacenamiento local
+C. Permitir paralelismo, control de fallos y orquestación por microservicios
+D. Garantizar normalización en los modelos del DWH
+ANSWER: C
+
+14. Un Data Mart de ventas se diseñó siguiendo un esquema Copo de Nieve. Sin embargo, los reportes tardan demasiado. ¿Cuál es la desventaja principal que se manifiesta en este caso?
+A. La agregación en los hechos se vuelve inconsistente
+B. Las dimensiones normalizadas obligan a múltiples JOINs aumentando el tiempo de consulta
+C. Los hechos pierden granularidad
+D. Disminuye la integridad referencial del modelo
+ANSWER: B
+
+15. En un sistema de bases de datos distribuidas heterogéneo federado , ¿qué característica es esencial para que los usuarios perciban una visión integrada de los datos?
+A. Que todos los nodos ejecuten el mismo DBMS
+B. La existencia de un esquema global o vista lógica unificada
+C. Que todos los nodos utilicen el mismo sistema operativo
+D. Que todos los nodos tengan el mismo hardware y capacidad de almacenamiento
+ANSWER: B
+
+16. Una organización decide aplicar fragmentación horizontal sobre una tabla de CLIENTES para distribuirla entre dos centros de datos: uno en Quito y otro en Guayaquil. ¿Qué situación describe mejor este tipo de diseño?
+A. Cada centro almacena columnas diferentes de la tabla CLIENTES
+B. Cada centro almacena filas diferentes de la tabla CLIENTES según criterios geográficos
+C. Cada centro almacena una copia completa de la tabla CLIENTES
+D. La tabla CLIENTES se divide en múltiples DBMS sin ningún criterio lógico
+ANSWER: B
+
+17. En un entorno con replicación asincrónica, ¿cuál es el riesgo más crítico desde el punto de vista de consistencia de datos?
+A. Los nodos pueden dejar de comunicarse permanentemente
+B. Los nodos secundarios podrían responder con datos desactualizados respecto al nodo primario
+C. No es posible ejecutar transacciones distribuidas
+D. No se pueden ejecutar consultas distribuidas entre nodos
+ANSWER: B
+
+18. En un ambiente de bases de datos distribuidas heterogéneas múltiples (sin esquema global), se quiere ejecutar consultas analíticas sobre datos repartidos en varios DBMS distintos. ¿Cuál es el componente más importante para hacer posible esta integración si n modificar las bases de datos originales?
+A. Un sistema de archivos distribuido que unifique todos los discos
+B. Un middleware o capa de integración que traduzca y orqueste consultas entre los distintos DBMS
+C. Un único coordinador de transacciones 2PC
+D. Replicación sincrónica de todos los datos hacia un solo nodo maestro
+ANSWER: B
+
+19. En el proceso de abstracción de un modelo de datos para una universidad, se identifican las entidades Persona, Estudiante, Docente y Administrativo. Todas comparten atributos comunes, pero cada una tiene atributos propios. ¿Cuál es el enfoque correcto en u n modelo EER?
+A. Crear cuatro entidades totalmente independientes sin relación entre sí
+B. Definir Persona como supertipo y Estudiante, Docente y Administrativo como subtipos en una jerarquía de generalización/especialización
+C. Definir solo la entidad Persona con todos los atributos (promedio, título, cargo) y dejar algunos en NULL según el caso
+D. Unir Estudiante y Docente en una sola entidad, y Administrativo en otra, sin supertipo común
+ANSWER: B
+
+20. Diseñas el backend analítico de una institución financiera con necesidades OLTP, análisis histórico y escalabilidad. ¿Cuál combinación de primitivas es la más adecuada?
+A. Solo R: todo en un gran esquema normalizado para evitar redundancia
+B. R + Di: OLTP normalizado y un Datawarehouse dimensional en un único servidor
+C. R + Dt: OLTP normalizado replicado geográficamente, sin modelo dimensional
+D. R + Di + Dt: OLTP normalizado, Datawarehouse dimensional y distribución/replicación entre nodos
+ANSWER: D
+
+21. ¿Qué efecto tiene la llamada al sistema fork() en un proceso en Linux?
+A. Termina el proceso actual y lanza uno nuevo sin relación
+B. Crea un nuevo hilo dentro del mismo proceso
+C. Crea un proceso hijo duplicado del proceso actual
+D. Reemplaza el proceso actual con un nuevo programa
+ANSWER: C
+
+22. ¿Qué técnica de planificación de CPU selecciona siempre el proceso con el menor tiempo estimado de ejecución?
+A. Round Robin
+B. Prioridades
+C. FIFO
+D. SJF (Shortest Job First)
+ANSWER: D
+
+23. ¿Qué método de sincronización evita que dos procesos accedan simultáneamente a un recurso compartido?
+A. Interrupciones de hardware
+B. Sección crítica y exclusión mutua
+C. Fragmentación externa
+D. Segmentación
+ANSWER: B
+
+24. El bloque de control de procesos (PCB) almacena principalmente…
+A. La lista completa de programas instalados
+B. El estado y la información necesaria para gestionar un proceso
+C. El tamaño total del disco duro
+D. El historial de comandos del usuario
+ANSWER: B
+
+25. ¿Qué estado de un proceso indica que está preparado para ejecutarse cuando la CPU esté disponible?
+A. Ejecutando
+B. Listo (Ready)
+C. Bloqueado
+D. Finalizado
+ANSWER: B
+
+26. En un sistema con múltiples hilos de ejecución, un hilo (thread) se define como…
+A. Un proceso que contiene otros procesos
+B. Un programa almacenado en memoria secundaria
+C. La unidad básica de utilización de CPU dentro de un proceso
+D. Una interrupción del sistema operativo
+ANSWER: C
+
+27. ¿Qué técnica de gestión de memoria divide los procesos en bloques del mismo tamaño?
+A. Segmentación
+B. Paginación
+C. Swapping
+D. Fragmentación externa
+ANSWER: B
+
+28. En la gestión de entrada y salida, los controladores (drivers) funcionan como…
+A. Proveedores de memoria adicional
+B. Aplicaciones ejecutadas por el usuario
+C. Interfaces entre el sistema operativo y los dispositivos físicos
+D. Protocolos de red
+ANSWER: C
+
+29. ¿Cuál de los siguientes es un principio fundamental del software libre?
+A. Acceso limitado al código fuente
+B. Licencias exclusivas de uso comercial
+C. Libertad para estudiar, modificar y distribuir el código
+D. Prohibición total de redistribución
+ANSWER: C
+
+30. ¿Qué mecanismo utiliza el sistema operativo para garantizar la seguridad y evitar accesos no autorizados?
+A. Compilación dinámica
+B. Control de permisos y autenticación
+C. Fragmentación interna
+D. Multiprogramación
+ANSWER: B
+
+31. ¿Cuál es uno de los principales objetivos de las pruebas de software?
+A. Eliminar el código no utilizado.
+B. Demostrar que el software nunca falla.
+C. Identificar defectos y mejorar la calidad del producto.
+D. Sustituir la fase de desarrollo.
+ANSWER: C
+
+32. ¿Qué relación existe entre calidad de software y pruebas?
+A. Las pruebas disminuyen la calidad del software.
+B. Las pruebas garantizan una interfaz atractiva.
+C. Las pruebas son una herramienta para evaluar y asegurar la calidad.
+D. Las pruebas son innecesarias si el equipo es experimentado.
+ANSWER: C
+
+33. ¿Cuál de los siguientes es un principio fundamental de las pruebas de software?
+A. Probar todo es posible.
+B. Las pruebas no deben repetirse.
+C. La agrupación de errores tiende a concentrarse.
+D. Si pasa una vez, ya no necesita volver a probarse.
+ANSWER: C
+
+34. ¿Cuál es el rol principal del ingeniero de pruebas?
+A. Diseñar arquitecturas escalables.
+B. Gestionar bases de datos.
+C. Definir, ejecutar y documentar casos de prueba.
+D. Implementar redes seguras.
+ANSWER: C
+
+35. ¿Cuál es una diferencia clave entre verificación y validación?
+A. La verificación implica probar el hardware únicamente.
+B. La validación se realiza solo con el código fuente.
+C. La verificación comprueba que el producto se construye correctamente.
+D. La validación se enfoca en fases iniciales del desarrollo.
+ANSWER: C
+
+36. ¿Qué representa la técnica de caja blanca?
+A. Se basa en la exploración de la interfaz gráfica.
+B. Se enfoca en los requerimientos sin ver el código.
+C. Implica el conocimiento del código fuente.
+D. Se utiliza únicamente para pruebas de rendimiento.
+ANSWER: C
+
+37. ¿Cuál es la causa más común de errores en el software?
+A. Fallas del sistema operativo.
+B. Mal uso de la memoria.
+C. Errores humanos en el desarrollo.
+D. Actualizaciones automáticas.
+ANSWER: C
+
+38. ¿Qué describe mejor a una revisión "walkthrough"?
+A. Una técnica de análisis de rendimiento.
+B. Una ejecución de código automatizada.
+C. Una revisión informal guiada por el autor del artefacto.
+D. Un tipo de prueba de integración.
+ANSWER: C
+
+39. ¿Cuál de las siguientes afirmaciones describe una prueba de regresión?
+A. Evalúa el rendimiento con muchos usuarios concurrentes.
+B. Valida que cambios recientes no hayan afectado funciones previas.
+C. Mide la usabilidad del sistema.
+D. Es una prueba de aceptación temprana.
+ANSWER: B
+
+40. ¿Cuál es una limitación común de las pruebas unitarias?
+A. No pueden automatizarse.
+B. No se pueden ejecutar en proyectos grandes.
+C. No detectan fallos de integración entre módulos.
+D. Solo prueban aplicaciones web.
+ANSWER: C
+
+41. ¿Qué caracteriza a una prueba de aceptación alfa?
+A. Se realiza por usuarios reales en entornos reales.
+B. Se lleva a cabo por los desarrolladores de manera informal.
+C. Se ejecuta en paralelo con el desarrollo.
+D. Se realiza internamente con participación del cliente
+ANSWER: D
+
+42. ¿Qué se entiende por TDD (Test Driven Development)?
+A. Un enfoque donde se escribe código y luego se prueba.
+B. Un enfoque de pruebas no automatizadas.
+C. Desarrollo dirigido por pruebas, donde se escriben pruebas antes del código.
+D. Una técnica exclusiva de pruebas manuales.
+ANSWER: C
+
+43. ¿Cuál es el propósito del plan de pruebas?
+A. Eliminar la necesidad de pruebas.
+B. Registrar únicamente errores encontrados.
+C. Definir estrategia, alcance y recursos necesarios para probar.
+D. Generar el informe final de pruebas.
+ANSWER: C
+
+44. ¿Qué herramienta se utiliza para pruebas de carga y rendimiento?
+A. JUnit
+B. Jenkins
+C. Postman
+D. JMeter
+ANSWER: D
+
+45. ¿Qué es una herramienta de gestión de pruebas?
+A. Un sistema de versionado de código.
+B. Un entorno para desarrollar aplicaciones móviles.
+C. Un sistema para organizar y planificar actividades de prueba.
+D. Una base de datos relacional.
+ANSWER: C
+
+46. ¿Cuál es la principal función del atributo aria-label  en HTML?
+A. Aplicar estilos directamente al texto
+B. Proporcionar accesibilidad mediante descripciones
+C. Aumentar el tamaño del campo de entrada
+D. Enlazar hojas de estilo
+ANSWER: B
+
+47. ¿Qué atributo se usa en un formulario para especificar la URL de destino?
+A. target
+B. action
+C. href
+D. method
+ANSWER: B
+
+48. ¿Qué etiqueta HTML permite definir contenido reutilizable sin mostrarlo de inmediato?
+A. <article>
+B. <section>
+C. <div>
+D. <template>
+ANSWER: D
+
+49. ¿Qué valor de rel impide que los motores de búsqueda sigan un enlace?
+A. nofollow
+B. noindex
+C. external
+D. nofollowing
+ANSWER: A
+
+50. ¿Qué atributo permite validar un campo con expresiones regulares en HTML5?
+A. pattern
+B. regex
+C. validate
+D. expresión
+ANSWER: A
+
+51. ¿Cuál es el propósito de la propiedad will-change  en CSS?
+A. Eliminar transiciones
+B. Optimizar el rendimiento para cambios futuros
+C. Ocultar elementos innecesarios
+D. Alinear contenido automáticamente
+ANSWER: B
+
+52. ¿Qué unidad de medida es relativa al ancho de la ventana del navegador?
+A. em
+B. rem
+C. vw
+D. ch
+ANSWER: C
+
+53. Pregunta:  ¿Qué propiedad evita el colapso de márgenes y permite encerrar elementos flotantes?
+A. display: block
+B. clear: both
+C. overflow: hidden
+D. position: relative
+ANSWER: C
+
+54. ¿Qué valor de position  permite que un elemento permanezca visible durante el scroll?
+A. static
+B. absolute
+C. fixed
+D. relative
+ANSWER: C
+
+55. ¿Cuál es el efecto de z-index  en un elemento posicionado?
+A. Cambia el tamaño
+B. Ajusta la rotación
+C. Controla el orden de apilamiento
+D. Ajusta el padding
+ANSWER: C
+
+56. ¿Qué representa una Promise  en JavaScript?
+A. Una función repetitiva
+B. Una operación asincrónica que puede completarse o fallar
+C. Una variable constante
+D. Una API externa
+ANSWER: B
+
+57. ¿Qué método convierte un objeto en una cadena JSON?
+A. JSON.parse()
+B. JSON.stringify()
+C. toString()
+D. Object.toJson()
+ANSWER: B
+
+58. ¿Qué significa "hoisting" en JavaScript?
+A. Eliminar variables duplicadas
+B. Elevar declaraciones al principio de su contexto
+C. Separar funciones del código
+D. Priorizar llamadas AJAX
+ANSWER: B
+
+59. ¿Cuál es el resultado de Array.prototype.map() ?
+A. Un número
+B. Un nuevo array con los resultados de la función aplicada
+C. Un string
+D. Una copia del array original
+ANSWER: B
+
+60. ¿Qué hace el método bind()  en una función?
+A. Elimina this
+B. Ejecuta la función inmediatamente
+C. Fija el contexto this de la función
+D. Clona la función
+ANSWER: C
+
+61. ¿Qué sistema utiliza el estilo APA para la citación en el texto?
+A. Autor -página
+B. Autor -año
+C. Número -página
+D. Abreviatura -numero
+ANSWER: B
+
+62. ¿Cuál es el formato para una cita textual corta?
+A. Menos de 20 palabras y cursiva
+B. Menos de 30 palabras y negrita
+C. Menos de 40 palabras y entre comillas
+D. Más de 50 palabras y con sangría
+ANSWER: C
+
+63. ¿Qué debe incluir una cita textual larga?
+A. Comillas y letra cursiva
+B. Texto separado, sin comillas, con sangría de 1.27 cm
+C. Texto en negrita con letra más grande
+D. Texto subrayado y centrado
+ANSWER: B
+
+64. ¿Cuándo se utiliza "et al." en una cita?
+A. Para citar más de dos autores
+B. Para citar autores corporativos
+C. Para citar tres o más autores
+D. Para todas las citas
+ANSWER: C
+
+65. ¿Qué se debe hacer cuando se citan dos autores con el mismo apellido?
+A. Usar solo el apellido
+B. Incluir las iniciales de sus nombres
+C. Colocar los apellidos en cursiva
+D. Usar la palabra "y" entre los apellidos
+ANSWER: B
+
+66. ¿Qué se utiliza para indicar una fuente sin fecha?
+A. (s.f.)
+B. (n.d.)
+C. (sin fecha)
+D. (desconocido)
+ANSWER: A
+
+67. ¿Qué tipo de cita no requiere referencia?
+A. Citas de fuentes secundarias
+B. Citas de obras clásicas
+C. Citas de publicaciones periódicas
+D. Citas de sitios web
+ANSWER: B
+
+68. ¿Cuál es la diferencia entre referencias y bibliografía en APA?
+A. La bibliografía incluye solo las fuentes citadas
+B. Las referencias incluyen todas las fuentes investigadas
+C. La bibliografía incluye fuentes citadas y no citadas
+D. Las referencias no requieren formato específico
+ANSWER: C
+
+69. ¿Cuál es el formato correcto para una cita narrativa de un solo autor?
+A. (López, 2020)
+B. López (2020)
+C. (2020, López)
+D. López - 2020
+ANSWER: B
+
+70. ¿Qué se debe incluir en la referencia de un libro?
+A. Año y país de publicación
+B. Título, autor y ciudad de publicación
+C. Autor, año, título y editorial
+D. Solo el autor y título
+ANSWER: C
+
+71. ¿Cómo se ordenan las referencias en la lista?
+A. Por fecha de publicación
+B. Por título de la obra
+C. Por orden alfabético del apellido del autor
+D. Por tipo de fuente
+ANSWER: C
+
+72. ¿Cuál es el formato correcto para una cita de un autor corporativo con sigla?
+A. (OMS, 2020)
+B. OMS, 2020
+C. (Organización Mundial de la Salud, 2020)
+D. Salud, OMS, 2020
+ANSWER: A
+
+73. ¿En qué casos se utiliza una sangría francesa?
+A. En citas largas
+B. En el formato de referencias
+C. En títulos de secciones
+D. En citas parentéticas
+ANSWER: B
+
+74. ¿Qué se hace si una fuente tiene más de 20 autores?
+A. Se listan todos los autores
+B. Se omiten los autores después del 19 y se usa "et al."
+C. Se citan solo los tres primeros
+D. Se cita solo el primer autor
+ANSWER: B
+
+75. ¿Cómo se cita una obra sin autor?
+A. Usando "Anónimo"
+B. Usando el título de la obra
+C. Usando "Desconocido"
+D. Usando el nombre del editor
+ANSWER: B
+
+76. ¿Qué elemento no se incluye en las referencias de un libro en APA 7ma edición?
+A. Nombre del autor
+B. Ciudad de publicación
+C. Título del libro
+D. Editorial
+ANSWER: B
+
+77. ¿Cuál es el formato correcto para citar un video en línea?
+A. Apellido, Año, URL
+B. Título del video, fecha, autor
+C. Apellido, título del video, fuente, URL
+D. URL, fecha, autor
+ANSWER: C
+
+78. ¿Cómo se citan varias obras del mismo autor con igual fecha?
+A. Usando números romanos
+B. Agregando letras al año (a, b, c)
+C. Usando comillas dobles
+D. Incluyendo el título de la obra
+ANSWER: B
+
+79. ¿Qué se hace si la cita no tiene número de página?
+A. Se omite la cita
+B. Se usa el número del párrafo
+C. Se coloca "sin página"
+D. Se coloca "página desconocida"
+ANSWER: B
+
+80. ¿Qué tipo de cita enfatiza el autor?
+A. Cita narrativa
+B. Cita parentética
+C. Cita directa
+D. Parafraseo
+ANSWER: A
+
+81. 21. ¿En qué idioma se deben adaptar las normas de citación según el documento?
+A. Inglés
+B. Español
+C. Francés
+D. Portugués
+ANSWER: B
+
+82. ¿Qué tipo de fuente se recomienda utilizar para citas textuales?
+A. Arial 14 puntos
+B. Times New Roman 12 puntos
+C. Calibri 11 puntos
+D. Georgia 10 puntos
+ANSWER: B
+
+83. ¿Qué palabra se usa para indicar una traducción en la referencia?
+A. Traducido por
+B. [Trad.]
+C. Translated
+D. Versión traducida
+ANSWER: B
+
+84. ¿Cómo se indica una cita de material audiovisual?
+A. Usando "p." para el tiempo
+B. Usando la marca de tiempo (minuto:segundo)
+C. Usando el año de la producción
+D. Usando el nombre del director
+ANSWER: B
+
+85. ¿Qué tipo de citas requieren el uso de "pp."?
+A. Citas de un solo párrafo
+B. Citas con más de una página
+C. Citas de menos de 40 palabras
+D. Citas sin autor
+ANSWER: B
+
+86. ¿Qué es un abstract en un artículo científico?
+A. Un resumen breve y autónomo del manuscrito.
+B. Una parte opcional del manuscrito.
+C. Una lista de referencias del estudio.
+D. Un documento separado del artículo.
+ANSWER: A
+
+87. ¿Cuál de los siguientes NO es un tipo de abstract?
+A. Descriptivo.
+B. Informativo.
+C. Extensivo.
+D. Destacado.
+ANSWER: C
+
+88. ¿Qué estructura suele seguir un abstract estructurado?
+A. IMRAD (Introducción, Metodología, Resultados y Discusión).
+B. Título, Autores, Referencias, Conclusiones.
+C. Introducción, Resultados, Análisis, Bibliografía.
+D. Propósito, Métodos, Resultados, Citas.
+ANSWER: A
+
+89. ¿Qué característica NO es parte de un buen abstract?
+A. Conciso.
+B. Claro.
+C. Complejo.
+D. Crítico.
+ANSWER: C
+
+90. ¿Cuál es la principal función de un abstract?
+A. Proporcionar una lista detallada de referencias.
+B. Atraer al lector y proporcionar un resumen del estudio.
+C. Presentar los resultados en detalle con gráficos.
+D. Discutir a fondo la metodología utilizada
+ANSWER: B
+
+91. ¿Cuál fue la primera revista en publicar un abstract en formato de un solo párrafo?
+A. The Lancet.
+B. Canadian Medical Association Journal.
+C. Nature.
+D. Science.
+ANSWER: B
+
+92. ¿Qué debe incluir un abstract estructurado en su sección de "Resultados"?
+A. Solo una descripción general del estudio.
+B. Los hallazgos más relevantes, incluyendo datos estadísticos clave.
+C. Un análisis profundo de la literatura previa.
+D. Comentarios de otros investigadores sobre el tema.
+ANSWER: B
+
+93. ¿Por qué un abstract es crucial para la indexación de un artículo?
+A. Porque contiene citas de otros trabajos.
+B. Porque ayuda a los lectores a decidir si leer el artículo completo.
+C. Porque resume la bibliografía utilizada.
+D. Porque reemplaza la introducción del artículo.
+ANSWER: B
+
+94. ¿Cuál de los siguientes NO debe incluirse en un abstract?
+A. Abreviaciones no explicadas.
+B. Resultados clave del estudio.
+C. Conclusiones del estudio.
+D. Recomendaciones basadas en los hallazgos.
+ANSWER: A
+
+95. ¿Qué diferencia hay entre un abstract para un congreso y uno para una revista?
+A. En los congresos, el abstract puede incluir tablas o figuras.
+B. No hay diferencia entre ambos formatos.
+C. En un congreso, el abstract es más extenso que en una revista.
+D. Los abstracts de congresos no tienen límite de palabras.
+ANSWER: A
+
+96. ¿Qué es un dato en estadística?
+A. Un número aleatorio sin contexto.
+B. Un conjunto de información sin procesar.
+C. Un gráfico que resume información.
+D. Una medida de centralización.
+ANSWER: B
+
+97. ¿Qué tipo de variable es el color de los ojos?
+A. Nominal.
+B. Ordinal.
+C. Intervalo.
+D. Ratio.
+ANSWER: A
+
+98. ¿Cuál de las siguientes escalas de medición permite operaciones matemáticas como la suma y resta, pero no la multiplicación o división?
+A. Nominal.
+B. Ordinal.
+C. Intervalo.
+D. Ratio.
+ANSWER: C
+
+99. ¿Qué medida de tendencia central se ve más afectada por valores extremos?
+A. Moda.
+B. Media.
+C. Mediana.
+D. Rango intercuartílico.
+ANSWER: B
+
+100. ¿Qué medida de dispersión es más resistente a valores extremos?
+A. Rango.
+B. Desviación estándar.
+C. Mediana absoluta de desviación (MAD).
+D. Media.
+ANSWER: C
+
+101. Si un conjunto de datos tiene una distribución normal, ¿qué relación hay entre la media, mediana y moda?
+A. Media < Mediana < Moda.
+B. Media > Mediana > Moda.
+C. Media = Mediana = Moda.
+D. No hay relación.
+ANSWER: C
+
+102. ¿Qué gráfico se usa comúnmente para detectar valores atípicos en un conjunto de datos?
+A. Histograma.
+B. Gráfico de líneas.
+C. Gráfico de dispersión.
+D. Boxplot (diagrama de caja y bigotes).
+ANSWER: D
+
+103. ¿Cuál es la principal diferencia entre estadísticas descriptivas e inferenciales?
+A. Las estadísticas descriptivas resumen datos, mientras que las inferenciales hacen predicciones basadas en datos muestrales.
+B. Las estadísticas inferenciales siempre son más precisas que las descriptivas.
+C. Las estadísticas descriptivas requieren una gran cantidad de datos.
+D. No hay diferencia.
+ANSWER: A
+
+104. ¿Qué prueba estadística se usa para comparar las medias de tres o más grupos?
+A. Prueba t de Student.
+B. ANOVA.
+C. Prueba de chi -cuadrado.
+D. Regresión lineal.
+ANSWER: B
+
+105. ¿Qué tipo de error cometes si rechazas una hipótesis nula verdadera?
+A. Error tipo I.
+B. Error tipo II.
+C. Error de estimación.
+D. Error de muestreo.
+ANSWER: A
+
+106. ¿Cuál es el nivel de confianza más comúnmente usado en inferencia estadística?
+A. 80%.
+B. 90%.
+C. 95%.
+D. 99%.
+ANSWER: C
+
+107. ¿Qué representa un p -valor en una prueba de hipótesis?
+A. La probabilidad de que la hipótesis nula sea verdadera.
+B. La probabilidad de obtener resultados iguales o más extremos si la hipótesis nula es cierta.
+C. La certeza absoluta de que un resultado es significativo.
+D. La diferencia exacta entre dos grupos.
+ANSWER: B
+
+108. ¿Qué método es apropiado si los datos no cumplen con la normalidad?
+A. Prueba t de Student.
+B. ANOVA.
+C. Pruebas no paramétricas como la de Mann -Whitney U.
+D. Regresión lineal.
+ANSWER: C
+
+109. ¿Qué mide la kurtosis en una distribución de datos?
+A. El grado de asimetría de la distribución.
+B. La dispersión de los datos alrededor de la media.
+C. La altura y forma de la curva de la distribución.
+D. La relación entre la media y la mediana.
+ANSWER: C
+
+110. ¿Cuál de los siguientes es un método gráfico para evaluar la normalidad de un conjunto de datos?
+A. Prueba de Kolmogorov -Smirnov.
+B. Prueba de Shapiro -Wilk.
+C. Gráfico Q -Q (Quantile -Quantile).
+D. Prueba de chi -cuadrado.
+ANSWER: C
+
+111. ¿Cuál de las siguientes alternativas estipulan una manera incorrecta de evitar sesgos en el planteamiento de preguntas en una encuesta?
+A. Proporcionar categorias de respuestas exhaustiva, imparcial y no excluyentes.
+B. Haga suficientes preguntas para cubrir adecuadamente el tema.
+C. Tenga cuidado de usar redacción que influya en la forma en que el encuestado piensa en el problema.
+D. Escriba instrucciones o comentarios claros e imparciales.
+ANSWER: A
+
+112. ¿Cuál de las siguientes opciones corresponde a la definición de una encuesta?
+A. Es solo el instrumento (el cuestionario o la lista de verificación) para recopilar información.
+B. Es un sistema integral de recopilación de información para describir, comparar o explicar conocimientos, actitudes y comportamientos.
+C. Estudio que se le realiza a un grupo de personas, estas no representan a una población más amplia.
+D. Es una conversación dirigida, con un propósito especifico y que usa un formato de preguntas y respuestas.
+ANSWER: B
+
+113. ¿Cuál de las siguientes opciones representa la actividad que se debe realizar después de diseñar y administrar una encuesta?
+A. Hacer la encuesta.
+B. Realizar un análisis de datos.
+C. Implementar cuestionarios.
+D. Investigar sesgos sistemáticos.
+ANSWER: B
+
+114. ¿Cuál de las siguientes opciones representa un planteamiento incorrecto en relación con la población objetivo en una encuesta?
+A. Es un conjunto representativo de personas que estén en condiciones de responder a las preguntas de la encuesta.
+B. Se representa como una lista finita de todos sus miembros.
+C. Su definición surge de los objetivos de la encuesta.
+D. La población objetivo específica puede ser en sí misma un subconjunto de una población más grande.
+ANSWER: A
+
+115. ¿Cuál de las siguientes opciones corresponde al orden de actividades adecuado para realizar una investigación?
+A. Idea, problema, estado del arte, reporte, investigación
+B. Problema, estado del arte, investigación, idea, reporte
+C. Problema, investigación, estado del arte, idea, reporte
+D. Problema, idea, estado del arte, investigación, reporte
+ANSWER: D
+
+116. ¿Cuál(es) de las siguientes afirmaciones no corresponden a los criterios por los cuales se clasifica la investigación?
+A. De acuerdo al tipo de problema que se aborda
+B. Según el propósito de carácter teórico o de solución de problemas
+C. Según el tipo de instrumentos utilizados en la recolección, procesamiento y análisis de los datos
+D. De acuerdo a la época en la cual se lleva a cabo la investigación
+ANSWER: D
+
+117. ¿Cuál de las siguientes afirmaciones representa el orden adecuado de las actividades a realizarse para la definición de una problemática?
+A. Identificación del problema, búsqueda de información, elaboración del problema y formulación del problema
+B. Identificación del problema, observación del problema, revisión de literatura, estructuración del problema y refinamiento del problema
+C. Identificación del problema, estructuración del problema, análisis del problema , planteamiento del problema y revisión de literatura
+D. Identificación del problema, estructuración del problema, análisis del problema, planteamiento del problema y observación del problema
+ANSWER: A
+
+118. ¿Cuál de los siguientes postulados propone la real importancia de una  Revisión de Literatura Preliminar (RLP)?
+A. A través de un RLP se sintetiza la información relevante de los estudios primarios de una manera razonable, se obtienen resultados con valor científico
+B. Toda investigación inicia con una RLP, se obtienen importantes resultados de tipo observacional y se minimizan los trabajos existente
+C. Identifica, evalúa e interpreta toda la información relevante a un área temática, fenómeno de interés o pregunta de investigación
+D. Un RLP es un estudio secundario a través del cual se pueden generalizar los hallazgos obtenidos
+ANSWER: A
+
+119. La investigación es:
+A. El proceso sistemático de recopilación y análisis de información (datos) para aumentar la comprensión sobre el fenómeno que nos concierne o nos interesa.
+B. El proceso sincrónico de recopilación y análisis de información (datos) para aumentar la comprensión sobre el fenómeno que nos concierne o nos interesa
+C. El proceso sistemático de creación y análisis de información (datos) para aumentar la comprensión sobre el fenómeno que nos concierne o nos interesa
+ANSWER: A
+
+120. ¿Cuál es el primer paso del proceso de investigación científica?
+A. Diseñar el estudio
+B. Formular hipótesis
+C. Definir el problema
+D. Analizar datos
+ANSWER: C
+
+121. Uno de los principios de usabilidad y accesibilidad es la visibilidad del estado del sistema, seleccione ejemplos de este principio
+A. Botón de deshacer, dar la posibilidad de editar un perfil personal
+B. FAQs, El icono de la interrogación
+C. Minitours, comprobación de campos de formularios en tiempo real
+D. Barras de carga, los Breadcrumbs, Los indicadores de los procesos de compra
+ANSWER: D
+
+122. La aplicación de editor de textos Word utiliza botones diseñados con iconos que son fácilmente reconocibles, esto es una característica de principio de usabilidad:
+A. Recuperación y prevención de errores
+B. Visibilidad del estado del sistema
+C. Reconocimiento en vez de recuerdo
+D. Diseño visual, minimalista y estético
+ANSWER: C
+
+123. Hace referencia a la parte visual de una aplicación de software, a la disposición de todos los elementos con los que el usuario va a interactuar con la aplicación.
+A. diseño IxD (Interaction Design)
+B. diseño de navegaciòn
+C. diseño UX (User eXperience)
+D. diseño UI (User Interface)
+ANSWER: D
+
+124. Está  enérgicamente unido al diseño UX (User eXperience), siendo el estudio de las interacciones que realiza el usuario en una aplicación de software y su dispositivo como por ejemplo:  uso de teclado, dispositivo táctil, tiempos invertidos en hacer clic, en ampliar una sección, etc.
+A. diseño IxD (Interaction Design)
+B. diseño de navegaciòn
+C. diseño UX (User eXperience)
+D. diseño UI (User Interface)
+ANSWER: A
+
+125. Uno de los sistemas de evaluación de la usabilidad llamados de "inspección", se encuentra la evaluación……………… que consiste en que determinados evaluadores revisan la interfaz siguiendo unos principios de usabilidad reconocidos. La revisión se realiza de manera individual y asumiendo el papel de usuario.
+A. Cognitiva
+B. Observación de campo
+C. Heurística
+D. Focus group
+ANSWER: C
+
+126. ¿Cuáles de los siguientes son objetivos de la web relacionados con la usabilidad?
+A. Conseguir que la información relevante esté colocada en la página principal
+B. Incrementar los ingresos del usuario
+C. Facilitar la navegación de los usuarios en la web
+D. Conseguir que los usuarios puedan comunicarse con el diseñador de la interfaz
+ANSWER: C
+
+127. ¿Cuál de los siguientes son métodos para analizar la usabilidad de una interfaz?
+A. La evaluación heurística a cargo de una persona con experiencia en usabilidad
+B. Un compilador específico para el ámbito visual
+C. Una encuesta entre la población antes de divulgar la página
+D. Pensando en voz baja
+ANSWER: A
+
+128. Son reglas que sirven para limitar las acciones que el sistema o los usuarios deben realizar. Se les conoce como:
+A. Inferencias
+B. Hechos
+C. Validaciones
+D. Restricciones
+ANSWER: D
+
+129. Con el fin de alcanzar la eficiencia en una aplicación web y la satisfacción del usuario se debe tomar en consideración para la evaluación los siguientes atributos:
+A. Infraestructura, usabilidad
+B. Navegabilidad, infraestructura
+C. Seguridad, usabilidad, navegabilidad
+D. Usabilidad, diseño, tiempo
+ANSWER: C
+
+130. ¿Qué guía de estilo para la Web explica sobre la navegación con teclado y otras características de las interfaces de usuario a fin de que se beneficien a usuarios con discapacidades?
+A. W3C - “Web Content Accesibility Guidelines (WCAG)”.
+B. W3C - “Authoring Tool Accesibility Guidelines (ATAG)”.
+C. W3C - “User Agent Accesibility Guidelines (UAAG).
+D. W3C - “User Agent Accesibility Guidelines (UAAG).
+ANSWER: C
+
+131. En el tema de evaluación de usabilidad. Informa el tiempo de renderización de la imagen, el bloque de texto o el video  más grandes que se pueden ver en el viewport, en relación con el momento en que el usuario navegó a la página por primera vez.
+A. Interaction to Next Paint (INP)
+B. Largest Contentful Paint (LCP)
+C. First Contentful Paint (FCP)
+D. Time to First Byte (TTFB)
+ANSWER: B
+
+132. Para proporcionar una buena experiencia del usuario, los sitios web deben cumplir por tener una primera pintura de contenido de 1.8 segundos o menos, a fin de alcanzar este objetivo para la mayoría de los usuarios, un buen umbral para medir es el percentil  75 de las cargas de páginas, segmentadas entre los dispositivos móviles y las computadoras de escritorio. Seleccione a qué métrica de sitio web corresponde
+A. Interaction to Next Paint (INP)
+B. Largest Contentful Paint (LCP)
+C. First Contentful Paint (FCP)
+D. Time to First Byte (TTFB)
+ANSWER: C
+
+133. Tomando como referencia el ejemplo: Tres usuarios diferentes realizan la misma tarea. Dos lograron completar en un tiempo considerable (2,3 segundos, respectivamente), mientras que el tercer usuario se demoró 7 segundos y no la terminó, esto es un ejemplo de métrica de:
+A. Eficiencia
+B. Facilidad de uso
+C. Eficacia
+D. Eficiencia y Eficacia
+ANSWER: A
+
+134. El método de evaluación por Inspección de estándares se realiza por medio de un experto en un estándar que puede ser de facto o de iure de la interfaz. El experto realiza una inspección minuciosa a la interfaz para comprobar que cumple en todo momento y gl obalmente todos los puntos definidos en el estándar. ¿En qué fases se aplica este método?
+A. En fases tempranas del desarrollo
+B. En todas las fases de desarrollo
+C. En fases avanzadas del desarrollo, pruebas, e implantación.
+D. En la fase de análisis de requisitos
+ANSWER: C
+
+135. Seleccione los principios importantes de la experiencia de usuario (UX) en aplicaciones de realidad aumentada (AR)
+A. Persistencia espacial, Interacción natural
+B. Objetos virtuales, escenario virtual
+C. Objetos reales, escenario real
+D. Lenguaje natural, manipulación directa
+ANSWER: A
+
+136. ¿Qué componente principal de Metasploit se utiliza para ejecutar acciones en un sistema objetivo tras una intrusión?
+A. Payload
+B. Exploit
+C. Auxiliary
+D. Encoder
+ANSWER: A
+
+137. ¿Qué tipo de cifrado utiliza una sola clave compartida entre las partes comunicantes?
+A. Cifrado asimétrico
+B. Cifrado híbrido
+C. Cifrado simétrico
+D. Cifrado hash
+ANSWER: C
+
+138. ¿Qué característica define a la criptografía asimétrica?
+A. Utiliza claves idénticas
+B. La clave privada puede compartirse
+C. Utiliza un par de clave pública y privada
+D. Genera siempre valores irreversibles
+ANSWER: C
+
+139. ¿Cuál es una característica fundamental de una función hash criptográfica?
+A. Es reversible
+B. Produce una salida de longitud variable
+C. Produce siempre la misma salida para la misma entrada
+D. Requiere una clave privada para generar el resultado
+ANSWER: C
+
+140. ¿Cuál es la utilidad principal de OpenSSL en la administración de seguridad?
+A. Crear copias de seguridad del sistema
+B. Realizar auditorías de red
+C. Gestionar criptografía y certificados digitales
+D. Implementar sistemas IDS/IPS
+ANSWER: C
+
+141. ¿Qué entidad dentro de un ecosistema de certificados digitales valida la identidad de un solicitante?
+A. Servidor DNS
+B. Autoridad Certificadora (CA)
+C. Proveedor de antivirus
+D. Proxy inverso
+ANSWER: B
+
+142. ¿Cómo se denomina el módulo de Metasploit utilizado para realizar tareas como escaneo, captura o enumeración sin explotar vulnerabilidades?
+A. Exploit
+B. Payload
+C. Auxiliary
+D. NOP
+ANSWER: C
+
+143. ¿Qué propósito cumple la firma digital dentro de un certificado X.509?
+A. Cifrar la clave pública del usuario
+B. Garantizar que la CA validó el certificado
+C. Evitar que el usuario modifique su clave privada
+D. Generar claves para conexiones seguras
+ANSWER: B
+
+144. En un esquema de cifrado híbrido (por ejemplo, en TLS), ¿qué rol suelen desempeñar los algoritmos simétricos?
+A. Intercambiar las claves públicas
+B. Proteger la integridad de la CA
+C. Cifrar eficientemente el canal de comunicación
+D. Firmar digitalmente los certificados
+ANSWER: C
+
+145. ¿Qué propiedad de una función hash evita que dos entradas diferentes produzcan la misma salida?
+A. Difusión
+B. Colisión
+C. Resistencia a preimagen
+D. Resistencia a colisiones
+ANSWER: D
+
+146. ¿Cuál de las siguientes afirmaciones describe mejor el propósito de la validación de requisitos en el ciclo de vida del software?
+A. Asegurar que los requisitos sean técnicamente implementables.
+B. Confirmar que los requisitos estén escritos sin errores gramaticales.
+C. Verificar que los requisitos reflejen correctamente las necesidades del cliente.
+D. Evaluar el rendimiento del sistema en condiciones reales.
+ANSWER: C
+
+147. ¿Cuál de las siguientes técnicas es más efectiva para validar requisitos ambiguos o mal entendidos?
+A. Pruebas de integración
+B. Revisión estructurada con stakeholders
+C. Análisis de código fuente
+D. Simulación de procesos
+ANSWER: B
+
+148. ¿Qué característica distingue a un requisito validado de uno simplemente documentado?
+A. Está escrito en lenguaje técnico.
+B. Ha sido aprobado por el equipo de desarrollo.
+C. Ha sido revisado y aceptado por los stakeholders .
+D. Tiene una prueba unitaria asociada.
+ANSWER: C
+
+149. ¿Cuál de los siguientes riesgos es más probable si no se realiza una validación adecuada de requisitos?
+A. Aumento del rendimiento del sistema
+B. Reducción del tiempo de desarrollo
+C. Desarrollo de funcionalidades innecesarias
+D. Mejora en la experiencia del usuario
+ANSWER: C
+
+150. ¿Qué afirmación es más precisa respecto a la trazabilidad en la validación de requisitos?
+A. Solo aplica a requisitos funcionales.
+B. Es útil únicamente en fases de prueba.
+C. Permite verificar que cada requisito tiene una fuente y una prueba asociada .
+D. Es responsabilidad exclusiva del equipo de QA.
+ANSWER: C
+
+151. ¿Cuál es la forma más adecuada de documentar los requisitos de software en un proyecto profesional?
+A. Escribirlos en correos electrónicos entre el cliente y el desarrollador.
+B. Utilizar un documento estructurado como el SRS (Software Requirements Specification).
+C. Incluirlos como comentarios dentro del código fuente.
+D. Discutirlos verbalmente en reuniones sin dejar registro.
+ANSWER: B
+
+152. ¿Qué impacto tiene la priorización de requisitos en el desarrollo del software?
+A. Reduce la necesidad de pruebas de calidad.
+B. Permite enfocar los recursos en funcionalidades de mayor valor para el negocio.
+C. Elimina la necesidad de reuniones con stakeholders.
+D. Aumenta la complejidad del diseño arquitectónico.
+ANSWER: B
+
+153. ¿Cuál es la forma más efectiva de priorizar los requisitos de software en un proyecto con recursos limitados y múltiples stakeholders?
+A. Ordenarlos alfabéticamente para facilitar su búsqueda.
+B. Asignarles un número aleatorio y desarrollarlos en ese orden.
+C. Aplicar técnicas como MoSCoW o análisis de valor -negocio vs. esfuerzo.
+D. Priorizar únicamente los requisitos propuestos por el equipo técnico.
+ANSWER: C
+
+154. ¿Qué es la trazabilidad de los requisitos y por qué es importante?
+A. Es una técnica para medir el rendimiento del software en producción.
+B. Es el proceso de traducir requisitos a lenguaje de programación.
+C. Es la capacidad de seguir el rastro de cada requisito desde su origen hasta su implementación y prueba.
+D. Es una forma de documentar únicamente los requisitos funcionales.
+ANSWER: C
+
+155. ¿Cómo se asegura que los requisitos se cumplen durante las pruebas de software?
+A. Ejecutando pruebas sin documentación previa.
+B. Validando únicamente los requisitos funcionales.
+C. Utilizando una matriz de trazabilidad que vincule requisitos con casos de prueba.
+D. Esperando a que el cliente detecte errores en producción.
+ANSWER: C
+
+156. ¿Cuál es la diferencia principal entre los requisitos funcionales y los no funcionales en el desarrollo de software?
+A. Los requisitos funcionales describen como debe comportarse el sistema ante fallos  , mientras que los no funcionales son opcionales.
+B. Los requisitos funcionales indican qué debe hacer el sistema, mientras que los no funcionales definen las funciones principales del sistema.
+C. Los requisitos funcionales indican qué debe hacer el sistema, mientras que los no funcionales describen cómo debe hacerlo.
+D. Los requisitos funcionales indican qué debe hacer el sistema, mientras que los no funcionales son opcionales son opcionales y no afectan al producto final
+ANSWER: C
+
+157. ¿Cuál es el objetivo principal del análisis de requisitos en un proyecto de software?
+A. Diseñar la interfaz gráfica del sistema
+B. Codificar los módulos principales
+C. Identificar y documentar las necesidades del usuario
+D. Estimar el presupuesto del proyecto
+ANSWER: C
+
+158. ¿Cuál de las siguientes afirmaciones describe mejor un requisito no funcional?
+A. El sistema debe permitir registrar nuevos usuarios
+B. El sistema debe responder en menos de 2 segundos
+C. El sistema debe calcular el total de ventas
+D. El sistema debe permitir imprimir facturas
+ANSWER: B
+
+159. ¿Qué técnica es más adecuada para descubrir requisitos tácitos o no expresados directamente por el usuario?
+A. Reunión JAD
+B. Encuestas
+C. Observación
+D. Entrevistas
+ANSWER: C
+
+160. ¿Cuál es una ventaja clave del uso de casos de uso en el análisis de requisitos?
+A. Permiten estimar el costo del proyecto
+B. Describen la arquitectura del sistema
+C. Sustituyen completamente la documentación técnica
+D. Facilitan la comprensión de las interacciones entre usuarios y sistema.
+ANSWER: C
+
+161. ¿Cuál es una característica principal de una Aplicación Web Progresiva (PWA)?
+A. Solo funciona en navegadores antiguos
+B. No requiere conexión a Internet
+C. Se comporta como una aplicación nativa
+D. Está escrita exclusivamente en Java
+ANSWER: C
+
+162. ¿Qué tipo de peticiones permite que el navegador se comunique con el servidor sin recargar toda la página?
+A. Síncronas
+B. Paralelas
+C. Asíncronas (AJAX)
+D. HTTP estándar
+ANSWER: C
+
+163. ¿Qué tipo de aplicación web se adapta automáticamente a distintos tamaños de pantalla?
+A. Web estática
+B. Web responsive
+C. Web monolítica
+D. Web FTP
+ANSWER: B
+
+164. ¿Qué estándar se utiliza comúnmente para autenticar usuarios en aplicaciones web modernas?
+A. SMTP
+B. OAuth
+C. DNS
+D. REST
+ANSWER: B
+
+165. ¿Cuál es el principal enfoque del desarrollo Front -End?
+A. Manipular bases de datos del servidor
+B. Administrar el sistema operativo
+C. Crear la interfaz de usuario en el navegador
+D. Gestionar redes y puertos de la aplicación
+ANSWER: C
+
+166. ¿Cuál es una característica clave de las plantillas en desarrollo web?
+A. Son archivos de respaldo
+B. Sirven para validar usuarios
+C. Permiten reutilizar estructuras de código
+D. Establecen políticas de seguridad
+ANSWER: C
+
+167. ¿Qué paradigma de programación permite representar la lógica web mediante clases y objetos?
+A. Procedimental
+B. Declarativo
+C. Funcional
+D. Orientado a Objetos
+ANSWER: D
+
+168. ¿Cuál es una ventaja de utilizar el patrón MVC en aplicaciones Front -End?
+A. Mejora la seguridad del servidor
+B. Aumenta el tamaño de la aplicación
+C. Permite separar lógica, interfaz y datos
+D. Requiere menos conocimientos de diseño
+ANSWER: C
+
+169. ¿Cuál es una característica fundamental de las APIs REST?
+A. Usan FTP como protocolo principal
+B. Solo funcionan con aplicaciones móviles
+C. Siguen principios de arquitectura sin estado (stateless)
+D. Están limitadas a bases de datos relacionales
+ANSWER: C
+
+170. ¿Cuál es uno de los beneficios de usar servicios web en aplicaciones Back -End?
+A. Aumentar el tamaño de los archivos
+B. Facilitar la integración con otros sistemas
+C. Eliminar la necesidad de autenticación
+D. Reducir la seguridad de la aplicación
+ANSWER: B
+
+171. ¿Qué significa ORM?
+A. Object Request Mapping
+B. Object Relational Mapping
+C. Online Resource Manager
+D. Object Runtime Manager
+ANSWER: B
+
+172. ¿Cuál es el lenguaje de consulta propio de Hibernate?
+A. SQL
+B. JPQL
+C. HQL
+D. JSON
+ANSWER: C
+
+173. ¿Qué anotación se utiliza para indicar la clase persistente en Hibernate?
+A. @Service
+B. @Database
+C. @Entity
+D. @Persistence
+ANSWER: C
+
+174. ¿Qué ventaja ofrece Hibernate frente a JDBC tradicional?
+A. Mayor velocidad sin conexión
+B. Mapeo automático entre objetos Java y tablas
+C. Uso exclusivo de bases de datos NoSQL
+D. Permite escribir consultas en JavaScript
+ANSWER: B
+
+175. ¿Qué sintaxis permite escribir HTML dentro de JavaScript en React?
+A. A. XML
+B. B. JSX
+C. C. TSX
+D. D. HTML5
+ANSWER: B
+
+176. ¿Qué algoritmo es más utilizado para la navegación de NPCs en mapas?
+A. Algoritmo A*
+B. Redes Neuronales
+C. Minimax
+D. Perlin Noises
+ANSWER: A
+
+177. ¿Las etapas del desarrollo de un videojuego son?
+A. Espiral, cascada, iterativo, incremental.
+B. Concepto, Pre -producción, producción, QA y Cierre, Post -Release.
+C. Concepto, producción, QA y Cierre, Post -Release.
+D. Explorar, descubrir,  competir y ganar.
+ANSWER: B
+
+178. ¿Cuál es una de las principales ventajas de Unity?
+A. Exclusivo para juegos AAA
+B. Gratuito sin limitaciones
+C. Soporte para múltiples plataformas
+D. No requiere conocimientos de programación
+ANSWER: C
+
+179. ¿Cuál de los siguientes componentes es responsable del rendimiento gráfico en una consola?
+A. CPU
+B. GPU
+C. RAM
+D. Disco duro
+ANSWER: B
+
+180. ¿Qué es un motor de videojuegos?
+A. Un hardware especializado para ejecutar juegos.
+B. Una plataforma que unifica programación y elementos creativos.
+C. Un lenguaje de programación exclusivo para juegos.
+D. Un sistema para gestionar servidores multijugador.
+ANSWER: B
+
+181. ¿Cómo afecta el uso de servidores dedicados a los videojuegos en línea?
+A. Reduce la latencia y mejora la estabilidad
+B. Hace los juegos más baratos
+C. Permite jugar sin conexión
+D. No tiene impacto
+ANSWER: A
+
+182. ¿Cuál de las siguientes tareas pertenece a la fase de preproducción?
+A. Desarrollo del motor gráfico
+B. Creación del prototipo
+C. Testeo final del juego
+D. Lanzamiento del juego
+ANSWER: B
+
+183. ¿Cuál de los siguientes aspectos se evalúa en las pruebas de jugabilidad?
+A. Calidad gráfica
+B. Equilibrio y experiencia del jugador
+C. Estrategias de marketing
+D. Publicidad en redes sociales
+ANSWER: B
+
+184. ¿Qué motor permite gestionar el estado actual del juego mediante guardado y carga?
+A. Motor de persistencia.
+B. Motor de escenas.
+C. Motor de scripting.
+D. Motor de entrada.
+ANSWER: A
+
+185. ¿Cuál de las siguientes técnicas se basa en reglas predefinidas y respuestas específicas a estímulos?
+A. Aprendizaje Profundo
+B. Redes Neuronales
+C. Máquinas de Estados Finitos (FSM)
+D. Algoritmo Genético.
+ANSWER: C
+
+186. ¿Qué se recomienda para acelerar el desarrollo de un videojuego?
+A. Inventar todas las herramientas desde cero
+B. Evitar el uso de prototipos
+C. Usar bibliotecas y motores existentes
+D. Focalizarse solo en el diseño visual
+ANSWER: C
+
+187. ¿Cuál de estas técnicas permite que un NPC aprenda de la experiencia y mejore su comportamiento con el tiempo?
+A. Aprendizaje reforzado
+B. Árboles de decisión
+C. Pathfinding
+D. Shaders gráficos
+ANSWER: A
+
+188. ¿Cuál de los siguientes motores es gratuito y de código abierto con una comunidad activa?
+A. Godot Engine.
+B. Roblox Studio.
+C. Stencyl.
+D. Adventure Game Studio.
+ANSWER: A
+
+189. ¿Qué representa el gameplay en el diseño del videojuego?
+A. La narrativa del juego
+B. Las mecánicas y experiencia del jugador
+C. Los efectos visuales y sonoros
+D. El diseño de los personajes secundarios
+ANSWER: B
+
+190. ¿Qué componente de la arquitectura de juegos en red gestiona la comunicación entre jugadores?
+A. El motor gráfico
+B. El servidor
+C. La tarjeta de video
+D. La física del juego
+ANSWER: B
+
+191. ¿Qué es la seguridad del software?
+A. La protección del hardware contra daños físicos.
+B. La protección del software y sus datos contra accesos no autorizados.
+C. La optimización del rendimiento del software.
+D. La eliminación de errores en el código.
+ANSWER: B
+
+192. ¿Por qué es importante la seguridad en el desarrollo de software?
+A. Para reducir los costos de producción.
+B. Para garantizar que el software sea accesible en cualquier momento.
+C. Para evitar vulnerabilidades que puedan ser explotadas por atacantes.
+D. Para mejorar la interfaz de usuario.
+ANSWER: C
+
+193. ¿Qué representan las vulnerabilidades en el software?
+A. Errores que mejoran el rendimiento.
+B. Debilidades que pueden ser explotadas por atacantes.
+C. Características que aumentan la seguridad.
+D. Funciones que optimizan la compatibilidad.
+ANSWER: B
+
+194. ¿Cuál es uno de los costes asociados a las vulnerabilidades del software?
+A. Reducción del tiempo de desarrollo.
+B. Pérdida de datos y daño a la reputación.
+C. Mejoras en la experiencia del usuario.
+D. Incremento en la velocidad del sistema.
+ANSWER: B
+
+195. ¿Qué implica la gestión de riesgos de seguridad en el software?
+A. Identificar, evaluar y mitigar amenazas y vulnerabilidades.
+B. Mejorar únicamente la interfaz de usuario.
+C. Incrementar la funcionalidad del software sin considerar la seguridad.
+D. Reducir los costos de desarrollo a toda costa.
+ANSWER: A
+
+196. ¿Cuál de las siguientes propiedades NO es típica de un software seguro y resiliente?
+A. Capacidad para recuperarse tras un ataque.
+B. Vulnerabilidad a ataques conocidos.
+C. Capacidad para detectar y responder a amenazas.
+D. Mínimos errores de seguridad.
+ANSWER: B
+
+197. ¿Qué nivel de amenazas incluye riesgos a nivel de hardware?
+A. Solo amenazas físicas, como robos o daños.
+B. Amenazas relacionadas con la manipulación del hardware.
+C. Solo amenazas de software malicioso.
+D. Solo amenazas a la red.
+ANSWER: B
+
+198. ¿Cuál de las siguientes es una amenaza a nivel de código?
+A. Ataques de denegación de servicio.
+B. Manipulación de datos en la base de datos.
+C. Inserción de código malicioso como SQL Injection.
+D. Fallos en la alimentación eléctrica.
+ANSWER: C
+
+199. ¿Qué aspecto de las amenazas abarca el nivel de diseño?
+A. La fabricación de componentes físicos.
+B. La estructura y lógica del software que puede ser explotada.
+C. La velocidad de procesamiento del sistema.
+D. La compatibilidad con otros sistemas.
+ANSWER: B
+
+200. ¿Qué se busca con un plan estratégico de seguridad en el ciclo de vida del desarrollo del software (SDLC)?
+A. Reducir los costos de desarrollo únicamente.
+B. Integrar la seguridad en todas las fases del desarrollo.
+C. Limitar la seguridad solo en la etapa de diseño.
+D. Acelerar la publicación del software sin considerar la seguridad.
+ANSWER: B
+
+201. ¿Qué son las soluciones o frameworks de seguridad existentes?
+A. Conjuntos de herramientas y buenas prácticas para proteger el software.
+B. Programas que eliminan todas las vulnerabilidades automáticamente.
+C. Sistemas operativos específicos para seguridad.
+D. Hardware especializado para protección física.
+ANSWER: A
+
+202. ¿Qué se entiende por puntos de ataque en seguridad?
+A. Los lugares donde el software puede ser actualizado.
+B. Los lugares o vulnerabilidades por donde un atacante puede ingresar o causar daño.
+C. Las áreas donde se almacenan los datos del usuario.
+D. Los componentes de hardware que protegen el sistema.
+ANSWER: B
+
+203. ¿Cuál es una de las amenazas a nivel de arquitectura en el software?
+A. Fallos de hardware en el servidor.
+B. Diseño de la estructura que permite ataques o fallos de seguridad.
+C. Mal funcionamiento del sistema operativo.
+D. Problemas en la red eléctrica.
+ANSWER: B
+
+204. ¿Por qué es importante considerar la seguridad en todas las fases del ciclo de vida del desarrollo de software?
+A. Porque reduce la necesidad de pruebas de seguridad.
+B. Porque permite detectar y corregir vulnerabilidades antes de que sean explotadas.
+C. Porque hace que el software sea más barato de mantener.
+D. Porque elimina la necesidad de gestionar riesgos.
+ANSWER: B
+
+205. ¿Qué papel cumplen las directrices de seguridad adicionales en el desarrollo de software?
+A. Mejoran la interfaz gráfica del software.
+B. Proveen recomendaciones para ampliar la protección contra amenazas específicas.
+C. Eliminar los requisitos funcionales del sistema.
+D. Reducir el tamaño del código.
+ANSWER: B
+
+206. Pregunta: ¿Qué clase se utiliza para crear widgets que pueden cambiar su contenido dinámicamente?
+A. StatelessWidget
+B. Column
+C. StatefulWidget
+D. MaterialApp
+ANSWER: C
+
+207. Pregunta: ¿Qué clase en Flutter implementa Listenable y permite notificar cambios a la UI?
+A. TextEditingController
+B. ChangeNotifier
+C. Future
+D. Navigator
+ANSWER: B
+
+208. Pregunta: ¿Qué función debe llamarse para actualizar a los listeners en un ChangeNotifier?
+A. notify()
+B. updateUI()
+C. notifyListeners()
+D. rebuild()
+ANSWER: C
+
+209. Pregunta:  ¿Qué tipo de lista muestra separadores entre los elementos?
+A. ListView.separated
+B. ListView.builder
+C. Column
+D. ReorderableListView
+ANSWER: A
+
+210. Pregunta:  ¿Qué propiedad en Flutter indica el número de columnas en un GridView?count?
+A. columnCount
+B. crossAxisCount
+C. axisCount
+D. numColumns
+ANSWER: B
+
+211. Pregunta:  ¿Qué widget se recomienda para construir listas dinámicas en Flutter?
+A. ListView
+B. Column
+C. ListView.builder
+D. ListTile
+ANSWER: C
+
+212. Pregunta:  ¿Cuál  es un ejemplo válido de endpoint REST?
+A. /getUsers
+B. /users/:id
+C. get/users
+D. /user.get()
+ANSWER: B
+
+213. Pregunta:  ¿Qué  función se usa para convertir un JSON en un objeto en Dart?
+A. fromMap()
+B. jsonDecode()
+C. parse()
+D. toString()
+ANSWER: B
+
+214. Pregunta:  ¿Qué ventaja ofrece el patrón MVVM?
+A. Aumenta el acoplamiento
+B. Dificulta pruebas
+C. Mejora testabilidad y separación de capas
+D. Evita el uso de widgets
+ANSWER: C
+
+215. Pregunta:  ¿Qué  tipo de gestor de estado se considera más adecuado para apps grandes y testeables?
+A. setState
+B. Provider
+C. Riverpod
+D. StatefulWidget
+ANSWER: C
+
+216. Pregunta:  ¿Qué  nombre tiene la convención de crear un objeto desde un JSON?
+A. toJson
+B. jsonDecode
+C. fromJson
+D. constructor
+ANSWER: C
+
+217. Pregunta:  ¿Cuál  es el propósito de jsonEncode(contact.toJson())?
+A. Convertir JSON a objeto
+B. Leer un archivo
+C. Codificar un objeto Dart a JSON
+D. Enviar una imagen
+ANSWER: C
+
+218. Pregunta:  ¿Dónde  se define la interfaz de repositorio en arquitectura limpia?
+A. data/
+B. application/
+C. domain/
+D. presentation/
+ANSWER: C
+
+219. Pregunta:  ¿Qué  tipo de archivo se recomienda usar para separar los modelos que vienen de la API?
+A. widgets/
+B. entities/
+C. models/
+D. providers/
+ANSWER: C
+
+220. Pregunta:  ¿Qué  propiedad del Container permite aplicar un fondo degradado?
+A. backgroundGradient
+B. GradientColor
+C. BoxDecoration.gradient
+D. Decoration
+ANSWER: D
+
+221. Dado el código que define estos tres puntos para un triángulo: new Point(posX + ancho, posY), new Point(posX + ancho, posY + alto), new Point(posX, posY + alto / 2) ¿hacia qué lado apunta el triángulo?
+A. derecho
+B. izquierdo
+C. arriba
+D. abajo
+ANSWER: B
+
+222. ¿Cuál de los siguientes fragmentos genera una órbita en sentido horario?
+A. angulo += velocidadAngular;
+B. angulo -= velocidadAngular;
+C. angulo = velocidadAngular * velocidadAngular;
+D. velocidadAngular = angulo *2;
+ANSWER: B
+
+223. ¿Cuál es la ventaja de usar un “double buffering” en animaciones implementadas en C#?
+A. Mejora el contraste del color
+B. Reduce la memoria utilizada
+C. Evita parpadeos y mejora la fluidez
+D. Incrementa el tamaño de la ventana
+ANSWER: C
+
+224. En una escena 2D con transformaciones aplicadas en C#, el punto (x, y) se representa internamente como un vector:
+A. (x, y, 0)
+B. (x, y, 1)
+C. (x, y, z, w)
+D. (x, y, w)
+ANSWER: B
+
+225. Para rotar una figura alrededor de un punto específico en C#, primero se debe:
+A. Dibujar la figura y luego aplicar la rotación
+B. Aplicar escalamiento y luego rotar
+C. Trasladar el origen al punto, rotar y regresar la traslación
+D. Cambiar el viewport
+ANSWER: C
+
+226. En un proyecto de gráficos 2D con C#, el patrón habitual para evitar bloqueos en la interfaz mientras se animan objetos es utilizar:
+A. Un hilo principal estático
+B. Clases parciales
+C. Un hilo separado para la lógica, mientras la UI repinta
+D. Un dataset gráfico
+ANSWER: C
+
+227. ¿Qué curva fractal tiene una estructura triangular?
+A. Curva de Koch
+B. Conjunto de Mandelbrot
+C. Curva de Bézier
+D. Conjunto de Julia
+ANSWER: A
+
+228. ¿Qué algoritmo se utiliza para eliminar caras ocultas en un modelo 3D?
+A. Algoritmo de Z -Buffer
+B. Algoritmo de Bresenham
+C. Transformación de perspectiva
+D. Ajuste de curvas Bézier
+ANSWER: A
+
+229. ¿Qué técnica se utiliza para recortar líneas fuera de una ventana de visualización?
+A. Transformación de perspectiva
+B. Recorte de línea de Cohen -Sutherland
+C. Algoritmo de Z -Buffer
+D. Ajuste de curva B -Spline
+ANSWER: B
+
+230. ¿Qué operación vectorial se utiliza para calcular la proyección de un punto sobre una línea?
+A. Producto interno
+B. Producto cruzado
+C. Determinante
+D. Transformación lineal
+ANSWER: A
+
+231. ¿Qué es REST?
+A. Es una manera de almacenar e intercambiar datos de una manera estructurada.
+B. Es un estilo arquitectónico para diseñar aplicaciones de servicio web.
+C. Es un protocolo que permite que los administradores manejen los nodos en una red IP.
+D. Es un formato legible para humanos, usado por aplicaciones para almacenar, transferir y leer información.
+ANSWER: B
+
+232. ¿Qué código de estado de respuesta HTTP indica que se ha completado la solicitud para actualizar la base de datos?
+A. 404
+B. 201
+C. 400
+D. 200
+ANSWER: B
+
+233. ¿Qué tipo de codificación se usa en la autenticación básica para las API REST?
+A. Base64
+B. UTF-8
+C. Base32
+D. UTF-16
+ANSWER: A
+
+234. ¿Qué operación RESTful corresponde al método HTTP GET?
+A. update
+B. post
+C. patch
+D. read
+ANSWER: D
+
+235. ¿Qué código de estado de respuesta HTTP indica que el usuario no está autenticado para acceder al sitio?
+A. 400
+B. 401
+C. 403
+D. 404
+ANSWER: B
+
+236. ¿Qué estilo arquitectónico de API utiliza un protocolo de mensajería basado en XML para comunicarse entre aplicaciones?
+A. SOAP
+B. NFS
+C. XML -RPC
+D. REST
+ANSWER: A
+
+237. ¿Qué elemento raíz de mensaje SOAP define el documento XML como un mensaje SOAP?
+A. Meta tag
+B. Body
+C. Envelope
+D. Header
+ANSWER: C
+
+238. ¿Cuál es una característica de una API RESTful?
+A. Facilita los cambios de configuración de un controlador de red a los dispositivos finales.
+B. Utiliza métodos HTTP para recopilar y manipular datos.
+C. Admite una transmisión segura de datos entre un usuario remoto y una red empresarial.
+D. Es una API en dirección sur.
+ANSWER: B
+
+239. ¿Qué tipo de información de credenciales se utiliza para la autenticación al portador en las API REST?
+A. Un nombre de usuario y contraseña establecidos por el cliente
+B. Una cadena generada por un servidor de autenticación
+C. Una contraseña codificada usando Base64
+D. Una cadena hash MD5 generada por la aplicación cliente
+ANSWER: B
+
+240. ¿Qué ataque implica la inserción de código malicioso en sentencias SQL?
+A. Fuerza bruta
+B. Inyección SQL
+C. inclusión de archivos locales
+D. Scripts entre sitios
+ANSWER: B
+
+241. En el contexto de las aplicaciones distribuidas, la comunicación entre procesos es fundamental para el funcionamiento del sistema. ¿Cuál de los siguientes es un protocolo común utilizado para la comunicación entre procesos?
+A. HTTP
+B. FTP
+C. RPC
+D. SMTP
+ANSWER: C
+
+242. Las aplicaciones distribuidas tienen características específicas que las diferencian de las aplicaciones tradicionales. ¿Cuál de las siguientes es una característica clave de las aplicaciones distribuidas?
+A. Centralización de recursos
+B. Alta dependencia de un único servidor
+C. Escalabilidad horizontal
+D. Bajo nivel de tolerancia a fallos
+ANSWER: C
+
+243. La sincronización en sistemas distribuidos es un desafío debido a la falta de un reloj global. ¿Cuál de los siguientes algoritmos se utiliza para sincronizar relojes en sistemas distribuidos?
+A. Algoritmo de Dijkstra
+B. Algoritmo de Lamport
+C. Algoritmo de Huffman
+D. Algoritmo de Bubble Sort
+ANSWER: B
+
+244. La computación en la nube ofrece diversas ventajas para las aplicaciones distribuidas. ¿Cuál de las siguientes es una característica de la computación en la nube?
+A. Requiere una inversión inicial alta en infraestructura física
+B. Ofrece escalabilidad bajo demanda
+C. Limita el acceso a los recursos a una ubicación geográfica específica
+D. No permite el uso de virtualización
+ANSWER: B
+
+245. La orquestación de contenedores es esencial para gestionar aplicaciones distribuidas complejas. ¿Cuál de las siguientes herramientas se utiliza comúnmente para orquestar contenedores?
+A. Docker Compose
+B. Kubernetes
+C. Apache HTTP Server
+D. MySQL
+ANSWER: B
+
+246. En las bases de datos distribuidas, la metodología de configuración es crucial para el rendimiento. ¿Cuál de las siguientes opciones es un enfoque común para configurar bases de datos distribuidas?
+A. Replicación de datos
+B. Eliminación de copias de seguridad
+C. Centralización de todas las consultas en un único nodo
+D. Desactivación de la tolerancia a fallos
+ANSWER: A
+
+247. En el modelo cliente -servidor, el ______ solicita recursos mientras que el ______ los proporciona. Este enfoque es fundamental en las aplicaciones distribuidas.
+A. cliente, servidor
+B. servidor, middleware
+C. nodo, API
+D. contenedor, microservicio
+ANSWER: A
+
+248. Para garantizar la coherencia en sistemas distribuidos, se utilizan algoritmos como la ______ de relojes y la ______ mutua, que evitan conflictos en el acceso a recursos compartidos.
+A. virtualización, replicación
+B. sincronización, exclusión
+C. autenticación, autorización
+D. encriptación, compresión
+ANSWER: B
+
+249. En la computación en la nube, ______ permite empaquetar aplicaciones en entornos aislados, mientras que ______ gestiona la escalabilidad y despliegue de esos contenedores.
+A. Docker, Kubernetes
+B. OAuth, API
+C. SOA, RPC
+D. Thrift, gRPC
+ANSWER: A
+
+250. Las bases de datos distribuidas utilizan ______ para mantener copias de datos en múltiples nodos y ______ para coordinar transacciones entre ellos, asegurando consistencia.
+A. replicación, consenso
+B. virtualización, sincronización
+C. autenticación, encriptación
+D. APIs, WebSockets
+ANSWER: A
+
+251. En sistemas distribuidos, el problema de la ___________ requiere algoritmos como Paxos o Raft para garantizar que todos los nodos acuerden un valor, mientras que la ___________ asegura que solo un proceso acceda a un recurso compartido a la vez.
+A. sincronización de relojes, replicación
+B. tolerancia a fallos, consistencia eventual
+C. exclusión mutua, elección de líder
+D. acuerdo distribuido, exclusión mutua
+ANSWER: D
+
+252. En arquitecturas de microservicios, el patrón ___________ permite gestionar fallos en cascada mediante reintentos inteligentes, mientras que el ___________ facilita la comunicación asíncrona entre servicios desacoplados.
+A. Circuit Breaker, Message Broker
+B. API Gateway, Service Mesh
+C. Load Balancer, Event Sourcing
+D. CQRS, Saga Pattern
+ANSWER: A
+
+253. Para garantizar consistencia en bases de datos distribuidas, el teorema ___________ establece que es imposible lograr simultáneamente consistencia, disponibilidad y tolerancia a particiones, mientras que la ___________ permite replicar datos con garantías de atomicidad.
+A. CAP, transacción distribuida
+B. PACELC, sharding
+C. ACID, replicación multimaestro
+D. BASE, consistencia eventual
+ANSWER: A
+
+254. En seguridad distribuida, ___________ delega autorización mediante tokens de acceso, mientras que ___________ cifra datos en tránsito para evitar interceptaciones.
+A. OAuth 2.0, TLS/SSL
+B. JWT, API Key
+C. SAML, HTTPS
+D. OpenID Connect, IPsec
+ANSWER: A
+
+255. Para sincronizar relojes en sistemas distribuidos, el algoritmo ___________ utiliza marcas lógicas para ordenar eventos, mientras que ___________ corrige desviaciones basado en servidores de tiempo externos.
+A. Lamport, NTP
+B. Vectorial, PTP
+C. Cristian, Berkeley
+D. Paxos, Raft
+ANSWER: A
+
+256. ¿Cuál es el objetivo principal del patrón Flyweight en el sistema desarrollado?
+A. Almacenar los datos de los estudiantes en la nube.
+B. Optimizar el uso de memoria compartiendo datos comunes .
+C. Automatizar la creación de interfaces gráficas.
+D. Gestionar los estados anteriores de los objetos.
+ANSWER: B
+
+257. ¿Qué componente del patrón Memento se encarga de almacenar el historial de cambios?
+A. Originator
+B. FlyweightFactory
+C. Caretaker
+D. Editor
+ANSWER: C
+
+258. ¿Cuál es el propósito del patrón Memento en la aplicación desarrollada?
+A. Encapsular datos para el modelo.
+B. Permitir deshacer cambios realizados por el usuario .
+C. Centralizar la lógica de presentación.
+D. Dividir responsabilidades entre clases.
+ANSWER: B
+
+259. ¿Qué mejora se propone en relación al patrón Memento para versiones futuras del sistema?
+A. Implementar validaciones lógicas.
+B. Añadir función de rehacer.
+C. Usar árboles binarios para búsqueda.
+D. Migrar a arquitectura MVC.
+ANSWER: B
+
+260. ¿Cómo contribuyen los patrones Flyweight y Memento al sistema en conjunto?
+A. Reducen el número de líneas de código y aumentan acoplamiento.
+B. Permiten una estructura de base de datos más compleja.
+C. Mejoran eficiencia de memoria y experiencia de usuario mediante deshacer .
+D. Aumentan la redundancia de datos por eficiencia computacional.
+ANSWER: C
+
+261. ¿Cuál es el objetivo principal del patrón de diseño Facade?
+A. Facilitar la creación de objetos complejos mediante constructores
+B. Simplificar el acceso a funcionalidades complejas de un subsistema
+C. Permitir la reutilización de componentes en distintos contextos
+D. Establecer comunicación directa entre clases
+ANSWER: B
+
+262. ¿En qué clase del proyecto se aplica el patrón Mediator según el documento?
+A. EstudianteUI.java
+B. EstudianteRepositorio.java
+C. EstudianteServicio.java
+D. Main.java
+ANSWER: C
+
+263. ¿Qué ventaja principal proporciona el uso del patrón Mediator?
+A. Aumenta la dependencia entre componentes
+B. Permite que los componentes se comuniquen directamente
+C. Facilita la reutilización de componentes desacoplándolos
+D. Simplifica la interfaz de usuario
+ANSWER: C
+
+264. ¿Cuál es una de las responsabilidades clave de la clase EstudianteFacade.java?
+A. Validar los datos de entrada directamente
+B. Gestionar la base de datos
+C. Servir como única interfaz entre la UI y la lógica del sistema
+D. Implementar la lógica de negocio
+ANSWER: C
+
+265. ¿Qué sucede si se implementa mal el patrón Facade y se agregan muchas funciones no relacionadas en una sola fachada?
+A. El sistema se vuelve más desacoplado
+B. Se pierde la utilidad del patrón Mediator
+C. La fachada se convierte en una estructura compleja difícil de mantener
+D. Mejora el rendimiento del sistema
+ANSWER: C
+
+266. ¿Cuál es el propósito principal del patrón Adapter?
+A. Encapsular múltiples acciones dentro de una sola clase.
+B. Permitir que dos clases incompatibles trabajen juntas.
+C. Reducir el número de clases dentro del sistema.
+D. Establecer relaciones de herencia entre clases.
+ANSWER: B
+
+267. ¿Qué componente del patrón Adapter traduce la interfaz de una clase a otra compatible?
+A. Target
+B. Adaptee
+C. Adapter
+D. Cliente
+ANSWER: C
+
+268. ¿Cuál de las siguientes es una ventaja del patrón Command?
+A. Aumenta la dependencia entre las clases.
+B. Permite encapsular una solicitud como un objeto.
+C. Reduce la legibilidad del sistema.
+D. Obliga a heredar múltiples clases.
+ANSWER: B
+
+269. ¿Qué desventaja se puede presentar al usar excesivamente el patrón Command?
+A. Reducción de extensibilidad del sistema.
+B. Necesidad de modificar el cliente constantemente.
+C. Incremento en la cantidad de clases.
+D. Incapacidad de programar acciones futuras.
+ANSWER: C
+
+270. ¿En qué situación se recomienda aplicar el patrón Adapter?
+A. Cuando se desea agrupar comandos relacionados.
+B. Al procesar eventos gráficos complejos.
+C. Cuando se necesita usar una clase existente cuya interfaz no coincide con la esperada.
+D. Al definir algoritmos recursivos complejos.
+ANSWER: B
