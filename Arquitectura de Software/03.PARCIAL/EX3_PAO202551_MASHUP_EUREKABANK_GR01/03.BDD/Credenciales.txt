@@ -1,0 +1,16 @@
+eurekabank
+
+
+
+Método de autenticación: Uso de la autenticación de SQL
+MasterMonster
+Monster9
+
+
+PORTAL AZURE: 
+
+IR A Inicio > arquitecturaSoft > eurekabank:
+	1. Buscar Redes
+	2. Agregar la dirección IPV4 del cliente
+	3. Buscar cual Ip es del cliente y colocarla
+	
