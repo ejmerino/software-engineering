@@ -1,0 +1,6 @@
+ec\edu\eurekabank\model\Cuenta.class
+ec\edu\eurekabank\service\EurekaService.class
+ec\edu\gr03\controller\WSEureka.class
+ec\edu\eurekabank\model\Movimiento.class
+ec\edu\eurekabank\db\AccesoDB.class
+ec\edu\eurekabank\config\CORSFilter.class
