@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="725550f2-342a-454b-a410-ad806a78ee4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Menus/Barras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Menus/Barras.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Menus/MenuPrincipal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Menus/MenuPrincipal.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Menus/marco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Menus/marco.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/Player.tscn15701833141.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/Yellow_Flower_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/Yellow_Flower_4.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/barra_vacia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/barra_vacia.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/final.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/flor_escudo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/flor_escudo.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/inicio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/inicio.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/advertencia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/advertencia.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/arbol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/arbol.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/cartel_siguiente_isla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/cartel_siguiente_isla.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/fondo_santacruz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/fondo_santacruz.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/hojas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/hojas.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/nube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/nube.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/piso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/piso.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/plataforma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/plataforma.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/precipicio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/precipicio.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/rio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/rio.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/roca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/roca.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/roca2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/roca2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/vegetación.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/nivel_2/vegetación.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/vida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Myassents/vida.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/Player.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/barra.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Attacck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Attacck.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Dead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Dead.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Grenade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Grenade.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Hurt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Hurt.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Idle.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Recharge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Recharge.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Run.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Shot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Shot_1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Shot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Shot_2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Smoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Smoke.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Walk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/escudo/Walk.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Attack_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Attack_1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Attack_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Attack_2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Dead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Dead.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Hurt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Hurt.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Idle.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Jump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Jump.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Recharge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Recharge.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Run.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Shot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Shot.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Walk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/Personaje/normal/Walk.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/canciones/Bad Bunny - Ojitos Lindos (Instrumental).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/canciones/Bad Bunny - Ojitos Lindos (Instrumental).mp3.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/canciones/Rauw Alejandro, Baby Rasta - PUNTO 40 (Instrumental).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/canciones/Rauw Alejandro, Baby Rasta - PUNTO 40 (Instrumental).mp3.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/icon.svg.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/menu_jugar.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/menu_opciones.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/menu_pausa.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/menu_principal.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/Shader/hojas.gdshader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/Shader/hojas.gdshader.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/Shader/nube.gdshader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/Shader/nube.gdshader.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/Shader/rio.gdshader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/Shader/rio.gdshader.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack3.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack4.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Attack5.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death3.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death4.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death5.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Death6.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Hurt1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Hurt1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Hurt2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Hurt2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Idle1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Idle1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Idle2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Idle2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Idle3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Idle3.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk1.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk2.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk3.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk4.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk5.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/enemigos/lizard/Walk6.png.import" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/escenario/Santa_Cruz.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/nodos/enemigo.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/nodos/flor.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/nodos/flor_armadura.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/nivel_2/nodos/nube.tscn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/project.godot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/scripts/enemigo.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/scripts/enemigo.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/scripts/flor.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/scripts/flor.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/scripts/flor_armadura.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Galapagos-Run-main/Galapagos-Run-main/scripts/flor_armadura.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProyectoAnalisis/ANALISIS_BACK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProyectoAnalisis/ANALISIS_FRONT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="39H8JgZWVxIvUpiVBAJ74McuMjT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ednan/Desktop/MICROSERVICIOS_PAO202551_GR01/04.MICROSERVICIOS/microservicio-cuentas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="725550f2-342a-454b-a410-ad806a78ee4b" name="Changes" comment="" />
+      <created>1770341567458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770341567458</updated>
+      <workItem from="1770341567780" duration="1447000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

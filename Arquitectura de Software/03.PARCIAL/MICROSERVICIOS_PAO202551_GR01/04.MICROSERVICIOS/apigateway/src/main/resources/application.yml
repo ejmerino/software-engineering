@@ -1,0 +1,21 @@
+server:
+  port: 8080  # El puerto único que escuchará el Frontend
+
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: cuentas-service
+          uri: http://localhost:8081
+          predicates:
+            - Path=/api/cuentas/**
+
+        - id: transacciones-service
+          uri: http://localhost:8082
+          predicates:
+            - Path=/api/transacciones/**
+
+        - id: historial-service
+          uri: http://localhost:8083
+          predicates:
+            - Path=/api/historial/**
